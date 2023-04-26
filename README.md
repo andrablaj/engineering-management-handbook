@@ -114,12 +114,16 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Eng Mgmt series](https://mvndrz.medium.com/eng-mgmt-ep1-should-i-become-an-engineering-manager-beba99db4662), Matthew Vanderzee
 - [Good engineering manager vs Bad engineering manager](https://medium.com/@rabashani/good-engineering-manager-vs-bad-engineering-manager-becbfd27d3d7)
 
+## 💻 To Code or not to Code
+- ["Can't Code! Not inclined to Hire?" - Why Engineering Managers Don't Need to be Great Coders](https://www.scarletink.com/why-engineering-managers-dont-need-to-code/?utm_source=sendinblue&utm_campaign=Level%20Up%20-%20Issue%20193&utm_medium=email)
+
 ## 📧 Newsletters
 - [Software Lead Weekly](https://softwareleadweekly.com/)
 - [LeadDev](https://leaddev.com/newsletter)
 - [The Engineering Manager](https://theengineeringmanager.substack.com/embed)
 - [Developer to Manager](https://devtomanager.com/)
 - [Level Up](https://levelup.patkua.com/)
+- [Pointer.io](https://www.pointer.io/). A Reading Club For Software Developers.
 
 ## 🫂 Communities
 - [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
