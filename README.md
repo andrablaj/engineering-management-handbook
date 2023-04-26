@@ -85,7 +85,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - ['Just Say No' to These 4 Interview Formats](https://www.linkedin.com/business/talent/blog/talent-acquisition/just-say-no-to-these-4-interview-formats?src=ig-st-just-say-no-to-these-formats-2-19-23&trk=li_li_lts_lts+daily+content_linkedin_social&linkId=100000187228474&li_fat_id=eeabbc46-5204-43ce-a141-4038d207868c)
 
 ### Onboarding
-- 📜(Welcome message)(https://docs.google.com/document/d/1djllrUyjLG1anLVamvFftKfp1HsPimWCTm0kLFDQbXk/edit#)
+- 📜[Welcome message](https://docs.google.com/document/d/1djllrUyjLG1anLVamvFftKfp1HsPimWCTm0kLFDQbXk/edit#)
 - 📜[First 90 Days - Software Engineer](https://docs.google.com/spreadsheets/d/15ghz8lzilgMwHKQusdF_mG-iCPL4iO4Z/edit#gid=980402253)
 - 🌎 [How to successfully onboard remote engineering staff in four weeks](https://leaddev.com/hiring-onboarding-retention/how-successfully-onboard-remote-engineering-staff-four-weeks)
 
@@ -97,6 +97,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - 📜[32 One-on-one Meeting Templates](https://hypercontext.com/agenda-templates?type=one-on-one)
 
 ### Engineering Objectives & Roles
+- [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/)
 
 ### Delegation
 - 📜[The Management Center - Delegation Worksheet](https://www.managementcenter.org/resources/delegation-worksheet/)
