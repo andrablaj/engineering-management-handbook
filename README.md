@@ -85,7 +85,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Leading Snowflakes](https://orenellenbogen.gumroad.com/l/engineeringmanager?layout=profile&recommended_by=library) - The New Engineering Manager's Handbook, Oren Ellenbogen
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/), Addy Osmani
 - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884), Andrew S. Grove
-- [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) - The: Essays on Software Engineering, Frederick Brooks Jr.
+- [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) - Essays on Software Engineering, Frederick Brooks Jr.
 - [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822) - Tools for Talking When Stakes Are High,  Joseph Grenny, Ron McMillan, Al Switzler, Kerry Patterson, Laura Roppe
 - [Radical Candor](https://www.radicalcandor.com/the-book/) - Be a Kick-Ass Boss Without Losing Your Humanity, Kim Scott
 - [Continuous Discovery Habits](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309) - Discover Products that Create Customer Value and Business Value, Teresa Torres
@@ -223,7 +223,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [GitLab - How to embrace asynchronous communication for remote work](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 - [10 ideas for building high-performing remote teams](https://www.linkedin.com/posts/nathanbarry_10-remote-team-tips-activity-6992113408070361088-M2Rh/)
 
-### Conversations Agenda Templates
+### Conversations 
 - [A field guide to dudes who ruin meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw)
 
 #### Ice breakers
