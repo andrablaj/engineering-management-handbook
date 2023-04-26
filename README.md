@@ -180,7 +180,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 ### 1:1s
 - [Feelings Wheel](https://feelingswheel.com/)
 - [Atlas of Emotions](http://atlasofemotions.org/#continents)
-- 📜 [My 1:1 Template](https://docs.google.com/document/d/1igdLGkbvHMvihnu4uQF4x4XAPcYgSYeFIXhi9d0JsJ8/edit?usp=sharing))
+- 📜 [My 1:1 Template](https://docs.google.com/document/d/1igdLGkbvHMvihnu4uQF4x4XAPcYgSYeFIXhi9d0JsJ8/edit?usp=sharing)
 - 📜 [The Management Center - Check-in Meeting Agenda Template](https://www.managementcenter.org/resources/check-meetings-sample-agenda/)
 - 📜 [GitLab - 1-1 Suggested Agenda Format](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/)
 - [96 Questions To Ask Your Manager During Your One On Ones](https://getlighthouse.com/blog/74-questions-to-ask-your-manager/)
@@ -273,7 +273,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 ### Team Contracting
 - [1:1 Contracting](https://www.theengineeringmanager.com/management-101/contracting/)
-- 📜 [The Team Contracting Template](https://miro.com/app/board/uXjVOUBjgoo=/?invite_link_id=619196418742)
+- 📜 [The Team Contracting Template](https://miro.com/app/board/uXjVOUBjgoo=/?invite_link_id=619196418742) - Miro board
 - [Team Contracts to outline the ground rules of a team](https://www.managementstudyguide.com/team-contracts.htm)
 
 ## Misc
