@@ -14,6 +14,15 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - I am a [Protagonist in 16Personalities](https://www.16personalities.com/enfj-personality)
 - My [Plum profile](https://secure.plum.io/en/p/GJtsHytBzrRYHVJaTUM4Cg)
 
+## 🗺️ Legend
+📜 Template
+
+🌎 Remote Work
+
+📹 Video
+
+🧰 Tool
+
 ## 📚 Books
 - [Turn the Ship Around](https://davidmarquet.com/turn-the-ship-around-book/) - A True Story of Turning Followers into Leaders, David Marquet
 - [Become an Effective Software Engineering Manager](https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/) - How to Be the Leader Your Development Team Needs, James Stanier
@@ -27,19 +36,31 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Leverage Points - Places to Intervene in a System](https://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf), Donella Meadows.
 
 ## 🤓 Courses / Training
+- [Rippleworks - Growing Yourself](https://www.rippleworks.org/leaders-studio/growing-yourself/) - Mastering leadership begins with managing self.
+- [Code with Mosh](https://codewithmosh.com/courses)
+- [Educative.io](https://www.educative.io/)
 
 ## 🤝 Management Resources
 - [The Management Center](https://www.managementcenter.org/resources/)
 - [LeadDev](https://leaddev.com/) - Learn effective engineering management and leadership.
 
+## 👥 Engineering Management Handbooks
+- [Awesome Engineering Manager's Handbook](https://github.com/ostronom/awesome-engineering-managers-handbook)
+- [The Engineering Manager's Booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)
+
 ## 💡 Thoughts from other Managers
+- [Surprise! You’re an Engineering Manager. What now?](https://medium.com/cylinder-blog/surprise-youre-an-engineering-manager-what-now-4c8bf2f79be3)
 - [Managing the First Year](https://alexkgold.space/mfy.html#appendix-book-recommendations), Alex K Gold
+- [Developer turned Manager](https://stackoverflow.blog/2015/08/07/developer-turned-manager/)
+- [Things I've learned transitioning from engineer to engineering manager](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/)
+- [Eng Mgmt series](https://mvndrz.medium.com/eng-mgmt-ep1-should-i-become-an-engineering-manager-beba99db4662), Matthew Vanderzee
+- [Good engineering manager vs Bad engineering manager](https://medium.com/@rabashani/good-engineering-manager-vs-bad-engineering-manager-becbfd27d3d7)
 
 ## 📧 Newsletters
 - [Software Lead Weekly](https://softwareleadweekly.com/)
 - [LeadDev](https://leaddev.com/newsletter)
 
-## ⚙️ Engineering Management Resources
+## ⚙️ Engineering Management - All The Things
 
 ### Managers READMEs
 `TODO` - mention love hate relation with Manager READMEs
@@ -48,7 +69,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [GitLab Engineering READMEs](https://about.gitlab.com/handbook/engineering/readmes/)
 - [49 Manager READMEs](https://hypercontext.com/blog/management-skills/49-manager-readmes)
 - [A user guide to me](https://codingfearlessly.com/a-user-guide-to-me)
-- [I hate manager READMEs](https://skamille.medium.com/i-hate-manager-readmes-20a0dd9a70d0), by [Camille Fournier](https://skamille.medium.com/)
+- [I hate manager READMEs](https://skamille.medium.com/i-hate-manager-readmes-20a0dd9a70d0), [Camille Fournier](https://skamille.medium.com/)
 - [Why I stopped using Manager READMEs and no longer recommend them](https://mattnewkirk.com/2022/03/07/why-i-stopped-using-manager-readmes-and-no-longer-recommend-them/)
 
 ### Build an Engineering Playbook
@@ -56,12 +77,26 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ### Hiring
 
 ### Onboarding
+- 🌎 [How to successfully onboard remote engineering staff in four weeks](https://leaddev.com/hiring-onboarding-retention/how-successfully-onboard-remote-engineering-staff-four-weeks)
 
 ### 1:1s
 
 ### Engineering Objectives & Roles
 
+### Delegation
+- 📜[The Management Center - Delegation Worksheet](https://www.managementcenter.org/resources/delegation-worksheet/)
+- [when to delegate, when to say no](https://larahogan.me/blog/when-to-delegate-when-to-say-no/)
+- [How To Do Less](https://alexturek.com/2022-03-07-How-to-do-less/)
+
+### Objective Setting
+- 📹[Goal-Setting Workshops for Managers](https://www.youtube.com/watch?v=np1rZvM9GD4), Melinda Seckington
+
+### Team Scaling
+- [How to scale a unicorn-building engineering team (and stay sane)](https://medium.com/meliopayments/how-to-scale-a-unicorn-building-engineering-team-and-stay-sane-40af8ac7e3db)
+
 ### Performance Management
+- 📹[Drexler/Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/)
+- [Your Career - Performance & Promotion](https://axelerant.atlassian.net/wiki/spaces/OA/pages/2655060073/Your+Career+-+Performance+Promotion)
 
 ### Performance Improvement Plans - PIP
 
@@ -72,10 +107,23 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ### Remote Team Management
 
 ### Conversations Agenda Templates
+- [A field guide to dudes who ruin meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw)
 
-### Retros
+#### Ice breakers
+- [330 Icebreaker Questions to Try with your Team](https://www.parabol.co/resources/icebreaker-questions/#Funny-icebreaker-questions)
+
+#### Dailies
+- [Why Your Team Members Need Daily Check-Ins](https://hbr.org/2022/09/why-your-team-members-need-daily-check-ins?utm_medium=email&utm_source=newsletter_daily&utm_campaign=mtod_actsubs&utm_content=signinnudge#)
+
+#### Retros
+- 🧰 [Stickies.io](https://stickies.io/)
+- 🧰 [Metroretro.io](https://metroretro.io/)
+- [Growing our team with retrospectives](https://plaid.com/blog/growing-our-team-with-retrospectives/)
+- [https://www.mindtools.com/amtbj63/swot-analysis](SWOT Analysis)
 
 ### Team Contracting
+- 📜[The Team Contracting Template](https://miro.com/app/board/uXjVOUBjgoo=/?invite_link_id=619196418742)
+- [Team Contracts to outline the ground rules of a team](https://www.managementstudyguide.com/team-contracts.htm)
 
 ### Project Plans
 
