@@ -95,8 +95,10 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ## 🤝 Management Resources
 - [The Management Center](https://www.managementcenter.org/resources/)
 - [LeadDev](https://leaddev.com/) - Learn effective engineering management and leadership.
+- [GitLab Handbook](https://about.gitlab.com/handbook/)
 
 ## 👥 Engineering Management Handbooks
+- [How Engineering Management Works at GitLab](https://about.gitlab.com/handbook/engineering/management/)
 - [Awesome Engineering Manager's Handbook](https://github.com/ostronom/awesome-engineering-managers-handbook)
 - [The Engineering Manager's Booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)
 - [Manager's Playbook](https://github.com/ksindi/managers-playbook)
@@ -135,6 +137,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 
 ### Engineering Playbooks
 - [Microsoft Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
+- [John Lewis IT Software Engineering Principles](http://engineering-principles.onejl.uk/)
 - [GitLab Engineering Handbook](https://about.gitlab.com/handbook/engineering/)
 - [Obvious - The Engineering Playbook](https://playbook.obvious.in/the-engineering-playbook)
 - [Thoughtbot Playbook](https://thoughtbot.com/playbook)
