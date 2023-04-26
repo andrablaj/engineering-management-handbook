@@ -93,7 +93,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 
 ## 🤓 Courses / Training
 - [Rippleworks - Growing Yourself](https://www.rippleworks.org/leaders-studio/growing-yourself/) - Mastering leadership begins with managing self.
-- 🧰[Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)
+- 🧰 [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)
 - [Code with Mosh](https://codewithmosh.com/courses)
 - [Educative.io](https://www.educative.io/)
 
@@ -165,7 +165,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ### Engineering Objectives & Roles
 - [Engineering Goals and OKR Examples](https://hypercontext.com/goal-examples/engineering)
 - [Good Goals, Bad Goals](https://cutlefish.substack.com/p/tbm-216-good-goalsbad-goals?utm_source=substack&utm_medium=email)
-- 📹[Goal-Setting Workshops for Managers](https://www.youtube.com/watch?v=np1rZvM9GD4), Melinda Seckington
+- 📹 [Goal-Setting Workshops for Managers](https://www.youtube.com/watch?v=np1rZvM9GD4), Melinda Seckington
 - [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/)
 - [What We Did Differently With Pleo’s Engineering Career Framework](https://eng.pleo.io/what-we-did-differently-with-pleos-engineering-career-framework-635f1e31dcfc)
 - [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems)
@@ -199,7 +199,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [The False Trade-off Between Quality and Speed](https://betterprogramming.pub/the-false-trade-off-between-quality-and-speed-7f0f9e93fdd)
 
 ### Performance Management
-- 📹[Drexler/Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/)
+- 📹 [Drexler/Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/)
 - [Your Career - Performance & Promotion](https://axelerant.atlassian.net/wiki/spaces/OA/pages/2655060073/Your+Career+-+Performance+Promotion)
 - [Moving Motivators](https://easyretro.io/tools/moving-motivators/)
 
