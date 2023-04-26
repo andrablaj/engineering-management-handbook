@@ -85,17 +85,17 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822) - Tools for Talking When Stakes Are High,  Joseph Grenny, Ron McMillan, Al Switzler, Kerry Patterson, Laura Roppe
 - [Radical Candor](https://www.radicalcandor.com/the-book/) - Be a Kick-Ass Boss Without Losing Your Humanity, Kim Scott
 - [Continuous Discovery Habits](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309) - Discover Products that Create Customer Value and Business Value, Teresa Torres
-- [Leverage Points - Places to Intervene in a System](https://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf), Donella Meadows.
+- [Leverage Points - Places to Intervene in a System](https://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf), Donella Meadows
 
 ## 🤓 Courses
-- [Rippleworks - Growing Yourself](https://www.rippleworks.org/leaders-studio/growing-yourself/) - Mastering leadership begins with managing self.
+- [Rippleworks - Growing Yourself](https://www.rippleworks.org/leaders-studio/growing-yourself/) - Mastering leadership begins with managing self
 - 🧰 [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)
 - [Code with Mosh](https://codewithmosh.com/courses)
 - [Educative.io](https://www.educative.io/)
 
 ## 🤝 Management Resources
 - [The Management Center](https://www.managementcenter.org/resources/)
-- [LeadDev](https://leaddev.com/) - Learn effective engineering management and leadership.
+- [LeadDev](https://leaddev.com/) - Learn effective engineering management and leadership
 - [GitLab Handbook](https://about.gitlab.com/handbook/)
 
 ## 👥 Engineering Management Handbooks
@@ -156,7 +156,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/)
 - [Architectural Decision Records (ADRs)](https://adr.github.io/)
 - [On Architectural Decision Records ADRs](https://mastodon.social/@kevlin/109517740925744193)
-- [Design Docs at Google](Design Docs at Google)
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 
 ### Spikes & Experiments
 - [Experimentation as a company strategy](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
