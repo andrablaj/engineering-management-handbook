@@ -2,9 +2,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # Table of Contents
 
-- [WIP Engineering Management Handbook](#wip-engineering-management-handbook)
+- [Table of Contents](#table-of-contents)
+- [Engineering Management Handbook](#engineering-management-handbook)
   - [👩‍💻 About Me](#-about-me)
-  - [🗺️ Legend](#-legend)
+  - [🗺️ Legend](#️-legend)
   - [📚 Books](#-books)
   - [🤓 Courses / Training](#-courses--training)
   - [🤝 Management Resources](#-management-resources)
@@ -12,14 +13,14 @@
   - [💡 Thoughts from other Managers](#-thoughts-from-other-managers)
   - [📧 Newsletters](#-newsletters)
   - [🫂 Communities](#-communities)
-  - [⚙️ Engineering Management - All The Things](#-engineering-management---all-the-things)
+  - [⚙️ Engineering Management - All The Things](#️-engineering-management---all-the-things)
     - [Managers READMEs](#managers-readmes)
     - [Build an Engineering Playbook](#build-an-engineering-playbook)
     - [Software Development Process](#software-development-process)
     - [Hiring](#hiring)
     - [Onboarding](#onboarding)
     - [1:1s](#11s)
-    - [Engineering Objectives & Roles](#engineering-objectives--roles)
+    - [Engineering Objectives \& Roles](#engineering-objectives--roles)
     - [Engineering Values](#engineering-values)
     - [Delegation](#delegation)
     - [Team Scaling](#team-scaling)
@@ -39,7 +40,7 @@
       - [Weekly updates](#weekly-updates)
     - [Team Contracting](#team-contracting)
     - [Technical Specifications/ADRs](#technical-specificationsadrs)
-    - [Spikes & Experiments](#spikes--experiments)
+    - [Spikes \& Experiments](#spikes--experiments)
     - [Project Plans](#project-plans)
     - [Operating Reviews](#operating-reviews)
     - [Presentations](#presentations)
@@ -47,11 +48,11 @@
     - [Technical Radar](#technical-radar)
     - [System Design](#system-design)
   - [Misc](#misc)
-  - [Fun](#fun)
+  - [🤡 Fun](#-fun)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# WIP Engineering Management Handbook
+# Engineering Management Handbook
 
 💻 Resources for leading great teams of software engineers.
 
@@ -149,17 +150,17 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - ['Just Say No' to These 4 Interview Formats](https://www.linkedin.com/business/talent/blog/talent-acquisition/just-say-no-to-these-4-interview-formats?src=ig-st-just-say-no-to-these-formats-2-19-23&trk=li_li_lts_lts+daily+content_linkedin_social&linkId=100000187228474&li_fat_id=eeabbc46-5204-43ce-a141-4038d207868c)
 
 ### Onboarding
-- 📜[Welcome message](https://docs.google.com/document/d/1djllrUyjLG1anLVamvFftKfp1HsPimWCTm0kLFDQbXk/edit#)
-- 📜[First 90 Days - Software Engineer](https://docs.google.com/spreadsheets/d/15ghz8lzilgMwHKQusdF_mG-iCPL4iO4Z/edit#gid=980402253)
+- 📜 [Welcome message](https://docs.google.com/document/d/1djllrUyjLG1anLVamvFftKfp1HsPimWCTm0kLFDQbXk/edit#)
+- 📜 [First 90 Days - Software Engineer](https://docs.google.com/spreadsheets/d/15ghz8lzilgMwHKQusdF_mG-iCPL4iO4Z/edit#gid=980402253)
 - 🌎 [How to successfully onboard remote engineering staff in four weeks](https://leaddev.com/hiring-onboarding-retention/how-successfully-onboard-remote-engineering-staff-four-weeks)
 
 ### 1:1s
 - [Feelings Wheel](https://feelingswheel.com/)
-- 📜[My 1:1 Template](https://drive.google.com/drive/u/1/folders/1s2ONZbobsd6BLfROwMGgiyyasRn_oiII)
-- 📜[The Management Center - Check-in Meeting Agenda Template](https://www.managementcenter.org/resources/check-meetings-sample-agenda/)
-- 📜[GitLab - 1-1 Suggested Agenda Format](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/)
+- 📜 [My 1:1 Template](https://drive.google.com/drive/u/1/folders/1s2ONZbobsd6BLfROwMGgiyyasRn_oiII)
+- 📜 [The Management Center - Check-in Meeting Agenda Template](https://www.managementcenter.org/resources/check-meetings-sample-agenda/)
+- 📜 [GitLab - 1-1 Suggested Agenda Format](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/)
 - [96 Questions To Ask Your Manager During Your One On Ones](https://getlighthouse.com/blog/74-questions-to-ask-your-manager/)
-- 📜[32 One-on-one Meeting Templates](https://hypercontext.com/agenda-templates?type=one-on-one)
+- 📜 [32 One-on-one Meeting Templates](https://hypercontext.com/agenda-templates?type=one-on-one)
 
 ### Engineering Objectives & Roles
 - [Engineering Goals and OKR Examples](https://hypercontext.com/goal-examples/engineering)
@@ -173,7 +174,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
 
 ### Delegation
-- 📜[The Management Center - Delegation Worksheet](https://www.managementcenter.org/resources/delegation-worksheet/)
+- 📜 [The Management Center - Delegation Worksheet](https://www.managementcenter.org/resources/delegation-worksheet/)
 - [when to delegate, when to say no](https://larahogan.me/blog/when-to-delegate-when-to-say-no/)
 - [How To Do Less](https://alexturek.com/2022-03-07-How-to-do-less/)
 
@@ -203,7 +204,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Moving Motivators](https://easyretro.io/tools/moving-motivators/)
 
 ### Feedback
-- 📜[The Management Center - 2×2 Feedback Form](https://www.managementcenter.org/resources/2x2-feedback-form/)
+- 📜 [The Management Center - 2×2 Feedback Form](https://www.managementcenter.org/resources/2x2-feedback-form/)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss)
 
 ### Engineer - Manager - Engineer
@@ -238,11 +239,11 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 
 #### Weekly updates
 - [Bricks of Love: create purpose and engagement with weekly updates](https://world.hey.com/joaoqalves/bricks-of-love-create-purpose-and-engagement-with-weekly-updates-4a91aa61)
-- 📜[Bricks of Love Template: weekly update to your team](https://docs.google.com/document/d/1NCUF6wk2Xz1BQyJH3Kv3DQ-VFukjjkO7qxKXpOUJIZk/edit#heading=h.kh5rmvbwxrje)
+- 📜 [Bricks of Love Template: weekly update to your team](https://docs.google.com/document/d/1NCUF6wk2Xz1BQyJH3Kv3DQ-VFukjjkO7qxKXpOUJIZk/edit#heading=h.kh5rmvbwxrje)
 
 ### Team Contracting
 - [1:1 Contracting](https://www.theengineeringmanager.com/management-101/contracting/)
-- 📜[The Team Contracting Template](https://miro.com/app/board/uXjVOUBjgoo=/?invite_link_id=619196418742)
+- 📜 [The Team Contracting Template](https://miro.com/app/board/uXjVOUBjgoo=/?invite_link_id=619196418742)
 - [Team Contracts to outline the ground rules of a team](https://www.managementstudyguide.com/team-contracts.htm)
 
 ### Technical Specifications/ADRs
@@ -273,5 +274,5 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Why Projects Fail](https://calleam.com/WTPF/)
 - [The 15 Commitments](https://conscious.is/15-commitments)
 
-## Fun
+## 🤡 Fun
 - [Ask a Manager](https://www.askamanager.org/)
