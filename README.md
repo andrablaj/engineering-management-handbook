@@ -81,11 +81,20 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 
 ### Hiring
 - 🌎 [Hiring in a Distributed World](https://20222851.fs1.hubspotusercontent-na1.net/hubfs/20222851/Hiring%20in%20a%20Distributed%20World_Datapeople%20Fall%202022%20Hiring%20Report.pdf?utm_campaign=Hiring%20in%20a%20Distributed%20World%20Report_Oct%202022&utm_medium=email&_hsmi=230087200&_hsenc=p2ANqtz--3atiAjEQCOh0MuXc5HYSilGCzACtiM93ljZEP-_zq97LpNOvp_38vo1fi8kX9t9UznXdsGahGb7w2YWznmkVgZKLeqA&utm_content=230085729&utm_source=hs_email)
+- [How I interview engineers to assess ability to deliver impact](https://www.metaview.ai/resources/blog/how-i-interview-engineers-to-assess-ability-to-deliver-impact) + [1-Pager](https://25735183.fs1.hubspotusercontent-eu1.net/hubfs/25735183/Impact%20Interview%201-page%20Guide.pdf)
+- ['Just Say No' to These 4 Interview Formats](https://www.linkedin.com/business/talent/blog/talent-acquisition/just-say-no-to-these-4-interview-formats?src=ig-st-just-say-no-to-these-formats-2-19-23&trk=li_li_lts_lts+daily+content_linkedin_social&linkId=100000187228474&li_fat_id=eeabbc46-5204-43ce-a141-4038d207868c)
 
 ### Onboarding
+- 📜(Welcome message)(https://docs.google.com/document/d/1djllrUyjLG1anLVamvFftKfp1HsPimWCTm0kLFDQbXk/edit#)
+- 📜[First 90 Days - Software Engineer](https://docs.google.com/spreadsheets/d/15ghz8lzilgMwHKQusdF_mG-iCPL4iO4Z/edit#gid=980402253)
 - 🌎 [How to successfully onboard remote engineering staff in four weeks](https://leaddev.com/hiring-onboarding-retention/how-successfully-onboard-remote-engineering-staff-four-weeks)
 
 ### 1:1s
+- 📜[My 1:1 Template](https://drive.google.com/drive/u/1/folders/1s2ONZbobsd6BLfROwMGgiyyasRn_oiII)
+- 📜[The Management Center - Check-in Meeting Agenda Template](https://www.managementcenter.org/resources/check-meetings-sample-agenda/)
+- 📜[GitLab - 1-1 Suggested Agenda Format](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/)
+- [96 Questions To Ask Your Manager During Your One On Ones](https://getlighthouse.com/blog/74-questions-to-ask-your-manager/)
+- 📜[32 One-on-one Meeting Templates](https://hypercontext.com/agenda-templates?type=one-on-one)
 
 ### Engineering Objectives & Roles
 
@@ -104,9 +113,17 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Jason’s perspective on effective product development culture](https://scribe.rip/effective-product-development-culture-circa-2022-835e2787b4f4)
 - [A decade of building (pretty) great software data products](https://www.craft.do/s/RlIjEn1JrvHgDQ)
 
+### Engineering ~~Metrics~~ Indicators
+- [KPIs, Velocity, and Other Destructive Metrics](https://holub.com/kpis-velocity-and-other-destructive-metrics/)
+- [17 popular software engineering metrics, and how to game them](https://www.gitclear.com/popular_software_engineering_metrics_and_how_they_are_gamed)
+- [The False Trade-off Between Quality and Speed](https://betterprogramming.pub/the-false-trade-off-between-quality-and-speed-7f0f9e93fdd)
+
 ### Performance Management
 - 📹[Drexler/Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/)
 - [Your Career - Performance & Promotion](https://axelerant.atlassian.net/wiki/spaces/OA/pages/2655060073/Your+Career+-+Performance+Promotion)
+
+### Feedback
+- [The Management Center - 2×2 Feedback Form](https://www.managementcenter.org/resources/2x2-feedback-form/)
 
 ### Performance Improvement Plans - PIP
 
@@ -134,6 +151,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [https://www.mindtools.com/amtbj63/swot-analysis](SWOT Analysis)
 
 ### Team Contracting
+- [1:1 Contracting](https://www.theengineeringmanager.com/management-101/contracting/)
 - 📜[The Team Contracting Template](https://miro.com/app/board/uXjVOUBjgoo=/?invite_link_id=619196418742)
 - [Team Contracts to outline the ground rules of a team](https://www.managementstudyguide.com/team-contracts.htm)
 
