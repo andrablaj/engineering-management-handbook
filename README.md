@@ -138,12 +138,33 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [I hate manager READMEs](https://skamille.medium.com/i-hate-manager-readmes-20a0dd9a70d0), [Camille Fournier](https://skamille.medium.com/)
 - [Why I stopped using Manager READMEs and no longer recommend them](https://mattnewkirk.com/2022/03/07/why-i-stopped-using-manager-readmes-and-no-longer-recommend-them/)
 
-### Build an Engineering Playbook
+### Engineering Playbooks
+- [Microsoft Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
+- [GitLab Engineering Handbook](https://about.gitlab.com/handbook/engineering/)
+- [Obvious - The Engineering Playbook](https://playbook.obvious.in/the-engineering-playbook)
+- [Thoughtbot Playbook](https://thoughtbot.com/playbook)
+- [Atlassian Engineering’s handbook: a guide for autonomous teams](https://www.atlassian.com/engineering/handbook)
 
 ### Software Development Process
 - [Reduce Friction](https://blog.ceejbot.com/posts/reduce-friction/)
 - [Code Review Best Practices](https://blog.palantir.com/code-review-best-practices-19e02780015f)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [DevOps culture: Westrum organizational culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)
+
+### Technical Specifications/ADRs
+- [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
+- [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/)
+- [Architectural Decision Records (ADRs)](https://adr.github.io/)
+- [On Architectural Decision Records ADRs](https://mastodon.social/@kevlin/109517740925744193)
+
+### Spikes & Experiments
+- [Experimentation as a company strategy](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
+
+### Technical Radar
+- [ThoughtWorks Technical Radar](https://www.thoughtworks.com/radar)
+
+### System Design
+- [Designing a Payment System](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system?s=r)
 
 ### Hiring
 - 🌎 [Hiring in a Distributed World](https://20222851.fs1.hubspotusercontent-na1.net/hubfs/20222851/Hiring%20in%20a%20Distributed%20World_Datapeople%20Fall%202022%20Hiring%20Report.pdf?utm_campaign=Hiring%20in%20a%20Distributed%20World%20Report_Oct%202022&utm_medium=email&_hsmi=230087200&_hsenc=p2ANqtz--3atiAjEQCOh0MuXc5HYSilGCzACtiM93ljZEP-_zq97LpNOvp_38vo1fi8kX9t9UznXdsGahGb7w2YWznmkVgZKLeqA&utm_content=230085729&utm_source=hs_email)
@@ -167,9 +188,12 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Engineering Goals and OKR Examples](https://hypercontext.com/goal-examples/engineering)
 - [Good Goals, Bad Goals](https://cutlefish.substack.com/p/tbm-216-good-goalsbad-goals?utm_source=substack&utm_medium=email)
 - 📹 [Goal-Setting Workshops for Managers](https://www.youtube.com/watch?v=np1rZvM9GD4), Melinda Seckington
+- [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems)
+
+### Engineering Roles
 - [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/)
 - [What We Did Differently With Pleo’s Engineering Career Framework](https://eng.pleo.io/what-we-did-differently-with-pleos-engineering-career-framework-635f1e31dcfc)
-- [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems)
+- [Engineering Org Structures— The QRF Team Model](https://medium.com/engineering-manager-hub/engineering-org-structures-the-qrf-team-model-7b92031db33c)
 
 ### Engineering Values
 - [My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
@@ -194,6 +218,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Jason’s perspective on effective product development culture](https://scribe.rip/effective-product-development-culture-circa-2022-835e2787b4f4)
 - [A decade of building (pretty) great software data products](https://www.craft.do/s/RlIjEn1JrvHgDQ)
 - [PM & EM: Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)
+- [The Product Culture Shift](https://www.elidedbranches.com/2022/08/the-product-culture-shift.html)
 
 ### Engineering ~~Metrics~~ Indicators
 - [KPIs, Velocity, and Other Destructive Metrics](https://holub.com/kpis-velocity-and-other-destructive-metrics/)
@@ -220,6 +245,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ### Offboarding
 
 ### Remote Team Management
+- [GitLab - The Remote Playbook](https://learn.gitlab.com/coursera-remote-work#page=1)
 - [GitLab - How to embrace asynchronous communication for remote work](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 - [10 ideas for building high-performing remote teams](https://www.linkedin.com/posts/nathanbarry_10-remote-team-tips-activity-6992113408070361088-M2Rh/)
 
@@ -249,26 +275,12 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - 📜 [The Team Contracting Template](https://miro.com/app/board/uXjVOUBjgoo=/?invite_link_id=619196418742)
 - [Team Contracts to outline the ground rules of a team](https://www.managementstudyguide.com/team-contracts.htm)
 
-### Technical Specifications/ADRs
-- [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
-- [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/)
-- [Architectural Decision Records (ADRs)](https://adr.github.io/)
-- [On Architectural Decision Records ADRs](https://mastodon.social/@kevlin/109517740925744193)
-
-### Spikes & Experiments
-- [Experimentation as a company strategy](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
-
-### Technical Radar
-- [ThoughtWorks Technical Radar](https://www.thoughtworks.com/radar)
-
-### System Design
-- [Designing a Payment System](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system?s=r)
-
 ## Misc
 - [Classic Mistakes Enumerated](https://athena.ecs.csus.edu/~buckley/CSc233/McConnell_Classic%20Mistakes%20Enumerated.pdf)
 - [Why Projects Fail](https://calleam.com/WTPF/)
 - [Why Projects Fail - 101 Common Causes](https://calleam.com/WTPF/?page_id=2338)
 - [The 15 Commitments](https://conscious.is/15-commitments)
+- [How to make (almost) anything](https://fab.cba.mit.edu/classes/863.20/)
 
 ## 🤡 Fun
 - [Ask a Manager](https://www.askamanager.org/)
