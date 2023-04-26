@@ -15,15 +15,15 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - My [Plum profile](https://secure.plum.io/en/p/GJtsHytBzrRYHVJaTUM4Cg)
 
 ## 📚 Books
-- Turn the Ship Around
-- [Become an Effective Software Engineering Manager](https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/), James Stanier
-- [Effective Remote Work](https://pragprog.com/titles/jsrw/effective-remote-work/), James Stanier
-- [Leading Snowflakes](https://orenellenbogen.gumroad.com/l/engineeringmanager?layout=profile&recommended_by=library), Oren Ellenbogen
+- [Turn the Ship Around](https://davidmarquet.com/turn-the-ship-around-book/) - A True Story of Turning Followers into Leaders, David Marquet
+- [Become an Effective Software Engineering Manager](https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/) - How to Be the Leader Your Development Team Needs, James Stanier
+- [Effective Remote Work](https://pragprog.com/titles/jsrw/effective-remote-work/) - For Yourself, Your Team, and Your Company, James Stanier
+- [Leading Snowflakes](https://orenellenbogen.gumroad.com/l/engineeringmanager?layout=profile&recommended_by=library) - The New Engineering Manager's Handbook, Oren Ellenbogen
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/), Addy Osmani
-- High Output Management
-- Mythical Man Month
-- Crucial Conversations
-- Radical Candor
+- [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884), Andrew S. Grove
+- [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) - The: Essays on Software Engineering, Frederick Brooks Jr.
+- [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822) - Tools for Talking When Stakes Are High,  Joseph Grenny, Ron McMillan, Al Switzler, Kerry Patterson, Laura Roppe
+- [Radical Candor](https://www.radicalcandor.com/the-book/) - Be a Kick-Ass Boss Without Losing Your Humanity, Kim Scott
 - [Leverage Points - Places to Intervene in a System](https://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf), Donella Meadows.
 
 ## 🤓 Courses / Training
