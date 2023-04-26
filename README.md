@@ -16,14 +16,15 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 
 ## 📚 Books
 - Turn the Ship Around
-- Become an Effective Software Engineering Manager
-- Remote Work
-- Leading Snowflakes
-- Software Engineering - The Soft Parts
+- [Become an Effective Software Engineering Manager](https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/), James Stanier
+- [Effective Remote Work](https://pragprog.com/titles/jsrw/effective-remote-work/), James Stanier
+- [Leading Snowflakes](https://orenellenbogen.gumroad.com/l/engineeringmanager?layout=profile&recommended_by=library), Oren Ellenbogen
+- [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/), Addy Osmani
 - High Output Management
 - Mythical Man Month
 - Crucial Conversations
 - Radical Candor
+- [Leverage Points - Places to Intervene in a System](https://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf), Donella Meadows.
 
 ## 🤓 Courses / Training
 
@@ -35,18 +36,22 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Managing the First Year](https://alexkgold.space/mfy.html#appendix-book-recommendations), Alex K Gold
 
 ## 📧 Newsletters
+- [Software Lead Weekly](https://softwareleadweekly.com/)
 - [LeadDev](https://leaddev.com/newsletter)
 
 ## ⚙️ Engineering Management Resources
 
 ### Managers READMEs
 `TODO` - mention love hate relation with Manager READMEs
+- [Andra's Manager README](/Andra's-Manager-README.md)
 - [Manager README](https://managerreadme.com/?r=ls). Great examples in the [Community section](https://managerreadme.com/community)
 - [GitLab Engineering READMEs](https://about.gitlab.com/handbook/engineering/readmes/)
 - [49 Manager READMEs](https://hypercontext.com/blog/management-skills/49-manager-readmes)
 - [A user guide to me](https://codingfearlessly.com/a-user-guide-to-me)
 - [I hate manager READMEs](https://skamille.medium.com/i-hate-manager-readmes-20a0dd9a70d0), by [Camille Fournier](https://skamille.medium.com/)
 - [Why I stopped using Manager READMEs and no longer recommend them](https://mattnewkirk.com/2022/03/07/why-i-stopped-using-manager-readmes-and-no-longer-recommend-them/)
+
+### Build an Engineering Playbook
 
 ### Hiring
 
@@ -63,6 +68,8 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ### People Management - Misc
 
 ### Offboarding
+
+### Remote Team Management
 
 ### Conversations Agenda Templates
 
