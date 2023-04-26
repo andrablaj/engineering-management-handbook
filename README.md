@@ -120,6 +120,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Software Lead Weekly](https://softwareleadweekly.com/)
 - [LeadDev](https://leaddev.com/newsletter)
 - [The Engineering Manager](https://theengineeringmanager.substack.com/embed)
+- [Developer to Manager](https://devtomanager.com/)
 - [Level Up](https://levelup.patkua.com/)
 
 ## 🫂 Communities
@@ -186,6 +187,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Theory of Constraints 105: Drum-Buffer-Rope at Microsoft](https://medium.com/praxis-blog/theory-of-constraints-105-drum-buffer-rope-at-microsoft-fda187c6d1d9)
 - [Shipping the org chart](https://donorem.medium.com/shipping-the-org-chart-3319181be9bd)
 - [How to go for 10X](https://muratbuffalo.blogspot.com/2015/08/how-to-go-for-10x.html)
+- [Rands Leadership Slack - Engineering Effectiveness](https://docs.google.com/document/d/1nQcUspTfMQIMlmKd8S-VmMAu0sEuzvavBruq85D2-ZI/edit#heading=h.s8fgjfg5ql9w)
 
 ### Build great stuff
 - 📹[Output vs. Outcome & Impact](https://vimeo.com/206617354)
@@ -234,6 +236,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 #### Retros
 - 🧰 [Stickies.io](https://stickies.io/)
 - 🧰 [Metroretro.io](https://metroretro.io/)
+- 📜 [FunRetrospectives - Activities and ideas for making agile retrospectives more engaging](https://www.funretrospectives.com/)
 - [Growing our team with retrospectives](https://plaid.com/blog/growing-our-team-with-retrospectives/)
 - [https://www.mindtools.com/amtbj63/swot-analysis](SWOT Analysis)
 
@@ -255,14 +258,6 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ### Spikes & Experiments
 - [Experimentation as a company strategy](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
 
-### Project Plans
-
-### Operating Reviews
-
-### Presentations
-
-### Templates
-
 ### Technical Radar
 - [ThoughtWorks Technical Radar](https://www.thoughtworks.com/radar)
 
@@ -272,6 +267,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ## Misc
 - [Classic Mistakes Enumerated](https://athena.ecs.csus.edu/~buckley/CSc233/McConnell_Classic%20Mistakes%20Enumerated.pdf)
 - [Why Projects Fail](https://calleam.com/WTPF/)
+- [Why Projects Fail - 101 Common Causes](https://calleam.com/WTPF/?page_id=2338)
 - [The 15 Commitments](https://conscious.is/15-commitments)
 
 ## 🤡 Fun
