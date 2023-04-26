@@ -1,3 +1,57 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+  - [Table of Contents](#table-of-contents)
+- [WIP Engineering Management Handbook](#wip-engineering-management-handbook)
+  - [👩‍💻 About Me](#-about-me)
+  - [🗺️ Legend](#-legend)
+  - [📚 Books](#-books)
+  - [🤓 Courses / Training](#-courses--training)
+  - [🤝 Management Resources](#-management-resources)
+  - [👥 Engineering Management Handbooks](#-engineering-management-handbooks)
+  - [💡 Thoughts from other Managers](#-thoughts-from-other-managers)
+  - [📧 Newsletters](#-newsletters)
+  - [🫂 Communities](#-communities)
+  - [⚙️ Engineering Management - All The Things](#-engineering-management---all-the-things)
+    - [Managers READMEs](#managers-readmes)
+    - [Build an Engineering Playbook](#build-an-engineering-playbook)
+    - [Software Development Process](#software-development-process)
+    - [Hiring](#hiring)
+    - [Onboarding](#onboarding)
+    - [1:1s](#11s)
+    - [Engineering Objectives & Roles](#engineering-objectives--roles)
+    - [Engineering Values](#engineering-values)
+    - [Delegation](#delegation)
+    - [Team Scaling](#team-scaling)
+    - [Build great stuff](#build-great-stuff)
+    - [Engineering ~~Metrics~~ Indicators](#engineering-metrics-indicators)
+    - [Performance Management](#performance-management)
+    - [Feedback](#feedback)
+    - [Engineer - Manager - Engineer](#engineer---manager---engineer)
+    - [Performance Improvement Plans - PIP](#performance-improvement-plans---pip)
+    - [People Management - Misc](#people-management---misc)
+    - [Offboarding](#offboarding)
+    - [Remote Team Management](#remote-team-management)
+    - [Conversations Agenda Templates](#conversations-agenda-templates)
+      - [Ice breakers](#ice-breakers)
+      - [Dailies](#dailies)
+      - [Retros](#retros)
+      - [Weekly updates](#weekly-updates)
+    - [Team Contracting](#team-contracting)
+    - [Technical Specifications/ADRs](#technical-specificationsadrs)
+    - [Spikes & Experiments](#spikes--experiments)
+    - [Project Plans](#project-plans)
+    - [Operating Reviews](#operating-reviews)
+    - [Presentations](#presentations)
+    - [Templates](#templates)
+    - [Technical Radar](#technical-radar)
+    - [System Design](#system-design)
+  - [Misc](#misc)
+  - [Fun](#fun)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Table of Contents
 
 

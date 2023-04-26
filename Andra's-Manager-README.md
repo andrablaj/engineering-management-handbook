@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Hi, I'm Andra, Engineering Manager. 👋](#hi-im-andra-engineering-manager-)
+  - [My Job 💻](#my-job-)
+  - [Values ✨](#values-)
+  - [Quirks 😬](#quirks-)
+  - [Admin Stuff 💼](#admin-stuff-)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Hi, I'm Andra, Engineering Manager. 👋
 This document is a short introduction to me and my working style. I'm going to change, you're going to change, and this is a living document that will change as I learn more about myself and how we can best support each other. Nevertheless, I truly believe that *the most efficient & effective method of conveying information… is face-to-face communication*.
 
