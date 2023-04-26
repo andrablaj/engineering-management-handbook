@@ -261,7 +261,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - 🧰 [Metroretro.io](https://metroretro.io/)
 - 📜 [FunRetrospectives - Activities and ideas for making agile retrospectives more engaging](https://www.funretrospectives.com/)
 - [Growing our team with retrospectives](https://plaid.com/blog/growing-our-team-with-retrospectives/)
-- [https://www.mindtools.com/amtbj63/swot-analysis](SWOT Analysis)
+- [SWOT Analysis](https://www.mindtools.com/amtbj63/swot-analysis)
 
 #### Weekly updates
 - [Bricks of Love: create purpose and engagement with weekly updates](https://world.hey.com/joaoqalves/bricks-of-love-create-purpose-and-engagement-with-weekly-updates-4a91aa61)
