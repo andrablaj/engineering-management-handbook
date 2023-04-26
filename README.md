@@ -53,13 +53,14 @@
 
 ## 👩‍💻 About Me
 
-I am a tech professional & international development enthusiast with more than 10-year experience in software engineering and leadership roles. I am intentional in using my engineering passion to build (or lead teams that build) accessible and relevant digital tools that serve the underserved. 
+I am a tech professional & international development enthusiast with more than 10-year experience in software engineering and leadership roles.
 
-I started as an Engineering Manager in May 2021, and learnt a lot through great resources I found all over the Internet. This handbook is a compilation of links and templates that supported me in my Engineering Management journey.  
+I started as an Engineering Manager in May 2021, and learnt a lot through great resources I found all over the Internet. My life would have been a lot tougher without these amazing authors who shared their experiences and advice, and I am extremely grateful for that. This handbook is a compilation of links and templates that supported me in my Engineering Management journey.  
 
 Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), Slush 2017, Helsinki, Finland: 
 > If what you build is not accessible to all, is neither radical nor revolutionary.
 
+- [My Manager README](/Andra's-Manager-README.md)
 - I am a [Protagonist in 16Personalities](https://www.16personalities.com/enfj-personality)
 - My [Plum profile](https://secure.plum.io/en/p/GJtsHytBzrRYHVJaTUM4Cg)
 
@@ -86,7 +87,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Continuous Discovery Habits](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309) - Discover Products that Create Customer Value and Business Value, Teresa Torres
 - [Leverage Points - Places to Intervene in a System](https://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf), Donella Meadows.
 
-## 🤓 Courses / Training
+## 🤓 Courses
 - [Rippleworks - Growing Yourself](https://www.rippleworks.org/leaders-studio/growing-yourself/) - Mastering leadership begins with managing self.
 - 🧰 [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)
 - [Code with Mosh](https://codewithmosh.com/courses)
@@ -126,8 +127,8 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ## ⚙️ Engineering Management - All The Things
 
 ### Managers READMEs
-`TODO` - mention love hate relation with Manager READMEs
-- [Andra's Manager README](/Andra's-Manager-README.md)
+I have a love-hate relation with Manager READMEs, as I am never confident that I am 100% self-aware (I am working hard to get better at that). While I do believe READMEs can be a great tool for getting to know our colleagues and their working preferences, I also believe that one needs a high level of self awareness and humility to get it right. 
+
 - [Manager README](https://managerreadme.com/?r=ls). Great examples in the [Community section](https://managerreadme.com/community)
 - [GitLab Engineering READMEs](https://about.gitlab.com/handbook/engineering/readmes/)
 - [49 Manager READMEs](https://hypercontext.com/blog/management-skills/49-manager-readmes)
@@ -155,6 +156,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/)
 - [Architectural Decision Records (ADRs)](https://adr.github.io/)
 - [On Architectural Decision Records ADRs](https://mastodon.social/@kevlin/109517740925744193)
+- [Design Docs at Google](Design Docs at Google)
 
 ### Spikes & Experiments
 - [Experimentation as a company strategy](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
@@ -177,6 +179,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 
 ### 1:1s
 - [Feelings Wheel](https://feelingswheel.com/)
+- [Atlas of Emotions](http://atlasofemotions.org/#continents)
 - 📜 [My 1:1 Template](https://drive.google.com/drive/u/1/folders/1s2ONZbobsd6BLfROwMGgiyyasRn_oiII)
 - 📜 [The Management Center - Check-in Meeting Agenda Template](https://www.managementcenter.org/resources/check-meetings-sample-agenda/)
 - 📜 [GitLab - 1-1 Suggested Agenda Format](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/)
