@@ -70,11 +70,11 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ## 🗺️ Legend
 
 | Emoji | Description |
-| --- | --- |
-| 📜 | Template |
-| 🌎 | Remote Work |
-| 📹 | Video |
-| 🧰 | Tool |
+|-------|-------------|
+| 📜    | Template    |
+| 🌎    | Remote Work |
+| 📹    | Video       |
+| 🧰    | Tool        |
 
 ## 📚 Books
 - [Turn the Ship Around](https://davidmarquet.com/turn-the-ship-around-book/) - A True Story of Turning Followers into Leaders, David Marquet
