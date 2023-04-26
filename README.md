@@ -2,9 +2,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Engineering Management Handbook](#engineering-management-handbook)
   - [👩‍💻 About Me](#-about-me)
-  - [🗺️ Legend](#-legend)
+  - [🗺️ Legend](#️-legend)
   - [📚 Books](#-books)
   - [🤓 Courses / Training](#-courses--training)
   - [🤝 Management Resources](#-management-resources)
@@ -12,18 +13,18 @@
   - [💡 Thoughts from other Managers](#-thoughts-from-other-managers)
   - [📧 Newsletters](#-newsletters)
   - [🫂 Communities](#-communities)
-  - [⚙️ Engineering Management - All The Things](#-engineering-management---all-the-things)
+  - [⚙️ Engineering Management - All The Things](#️-engineering-management---all-the-things)
     - [Managers READMEs](#managers-readmes)
     - [Engineering Playbooks](#engineering-playbooks)
     - [Software Development Process](#software-development-process)
     - [Technical Specifications/ADRs](#technical-specificationsadrs)
-    - [Spikes & Experiments](#spikes--experiments)
+    - [Spikes \& Experiments](#spikes--experiments)
     - [Technical Radar](#technical-radar)
     - [System Design](#system-design)
     - [Hiring](#hiring)
     - [Onboarding](#onboarding)
     - [1:1s](#11s)
-    - [Engineering Objectives & Roles](#engineering-objectives--roles)
+    - [Engineering Objectives](#engineering-objectives)
     - [Engineering Roles](#engineering-roles)
     - [Engineering Values](#engineering-values)
     - [Delegation](#delegation)
@@ -34,7 +35,6 @@
     - [Feedback](#feedback)
     - [Engineer - Manager - Engineer](#engineer---manager---engineer)
     - [Performance Improvement Plans - PIP](#performance-improvement-plans---pip)
-    - [People Management - Misc](#people-management---misc)
     - [Offboarding](#offboarding)
     - [Remote Team Management](#remote-team-management)
     - [Conversations](#conversations)
@@ -180,7 +180,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [96 Questions To Ask Your Manager During Your One On Ones](https://getlighthouse.com/blog/74-questions-to-ask-your-manager/)
 - 📜 [32 One-on-one Meeting Templates](https://hypercontext.com/agenda-templates?type=one-on-one)
 
-### Engineering Objectives & Roles
+### Engineering Objectives
 - [Engineering Goals and OKR Examples](https://hypercontext.com/goal-examples/engineering)
 - [Good Goals, Bad Goals](https://cutlefish.substack.com/p/tbm-216-good-goalsbad-goals?utm_source=substack&utm_medium=email)
 - 📹 [Goal-Setting Workshops for Managers](https://www.youtube.com/watch?v=np1rZvM9GD4), Melinda Seckington
@@ -235,8 +235,6 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 
 ### Performance Improvement Plans - PIP
-
-### People Management - Misc
 
 ### Offboarding
 
