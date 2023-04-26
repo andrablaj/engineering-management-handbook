@@ -15,17 +15,18 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - My [Plum profile](https://secure.plum.io/en/p/GJtsHytBzrRYHVJaTUM4Cg)
 
 ## 🗺️ Legend
-📜 Template
 
-🌎 Remote Work
-
-📹 Video
-
-🧰 Tool
+| Emoji | Description |
+| --- | --- |
+| 📜 | Template |
+| 🌎 | Remote Work |
+| 📹 | Video |
+| 🧰 | Tool |
 
 ## 📚 Books
 - [Turn the Ship Around](https://davidmarquet.com/turn-the-ship-around-book/) - A True Story of Turning Followers into Leaders, David Marquet
 - [Become an Effective Software Engineering Manager](https://pragprog.com/titles/jsengman/become-an-effective-software-engineering-manager/) - How to Be the Leader Your Development Team Needs, James Stanier
+  - [Related blog](https://www.theengineeringmanager.com/management-101/)
 - [Effective Remote Work](https://pragprog.com/titles/jsrw/effective-remote-work/) - For Yourself, Your Team, and Your Company, James Stanier
 - [Leading Snowflakes](https://orenellenbogen.gumroad.com/l/engineeringmanager?layout=profile&recommended_by=library) - The New Engineering Manager's Handbook, Oren Ellenbogen
 - [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/), Addy Osmani
@@ -59,6 +60,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ## 📧 Newsletters
 - [Software Lead Weekly](https://softwareleadweekly.com/)
 - [LeadDev](https://leaddev.com/newsletter)
+- [The Engineering Manager](https://theengineeringmanager.substack.com/embed)
 
 ## ⚙️ Engineering Management - All The Things
 
@@ -74,7 +76,11 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 
 ### Build an Engineering Playbook
 
+### Software Development Process
+- [Code Review Best Practices](https://blog.palantir.com/code-review-best-practices-19e02780015f)
+
 ### Hiring
+- 🌎 [Hiring in a Distributed World](https://20222851.fs1.hubspotusercontent-na1.net/hubfs/20222851/Hiring%20in%20a%20Distributed%20World_Datapeople%20Fall%202022%20Hiring%20Report.pdf?utm_campaign=Hiring%20in%20a%20Distributed%20World%20Report_Oct%202022&utm_medium=email&_hsmi=230087200&_hsenc=p2ANqtz--3atiAjEQCOh0MuXc5HYSilGCzACtiM93ljZEP-_zq97LpNOvp_38vo1fi8kX9t9UznXdsGahGb7w2YWznmkVgZKLeqA&utm_content=230085729&utm_source=hs_email)
 
 ### Onboarding
 - 🌎 [How to successfully onboard remote engineering staff in four weeks](https://leaddev.com/hiring-onboarding-retention/how-successfully-onboard-remote-engineering-staff-four-weeks)
@@ -94,6 +100,10 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ### Team Scaling
 - [How to scale a unicorn-building engineering team (and stay sane)](https://medium.com/meliopayments/how-to-scale-a-unicorn-building-engineering-team-and-stay-sane-40af8ac7e3db)
 
+### Build great stuff
+- [Jason’s perspective on effective product development culture](https://scribe.rip/effective-product-development-culture-circa-2022-835e2787b4f4)
+- [A decade of building (pretty) great software data products](https://www.craft.do/s/RlIjEn1JrvHgDQ)
+
 ### Performance Management
 - 📹[Drexler/Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/)
 - [Your Career - Performance & Promotion](https://axelerant.atlassian.net/wiki/spaces/OA/pages/2655060073/Your+Career+-+Performance+Promotion)
@@ -105,6 +115,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ### Offboarding
 
 ### Remote Team Management
+- [GitLab - How to embrace asynchronous communication for remote work](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 
 ### Conversations Agenda Templates
 - [A field guide to dudes who ruin meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw)
@@ -114,6 +125,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 
 #### Dailies
 - [Why Your Team Members Need Daily Check-Ins](https://hbr.org/2022/09/why-your-team-members-need-daily-check-ins?utm_medium=email&utm_source=newsletter_daily&utm_campaign=mtod_actsubs&utm_content=signinnudge#)
+- [Async daily standups: the pros & cons](https://www.range.co/blog/asynchronous-daily-standups)
 
 #### Retros
 - 🧰 [Stickies.io](https://stickies.io/)
@@ -124,6 +136,13 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 ### Team Contracting
 - 📜[The Team Contracting Template](https://miro.com/app/board/uXjVOUBjgoo=/?invite_link_id=619196418742)
 - [Team Contracts to outline the ground rules of a team](https://www.managementstudyguide.com/team-contracts.htm)
+
+### Technical Specifications
+- [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
+- [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/)
+
+### Spikes & Experiments
+- [Experimentation as a company strategy](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
 
 ### Project Plans
 
