@@ -189,6 +189,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/)
 - [What We Did Differently With Pleo’s Engineering Career Framework](https://eng.pleo.io/what-we-did-differently-with-pleos-engineering-career-framework-635f1e31dcfc)
 - [Engineering Org Structures— The QRF Team Model](https://medium.com/engineering-manager-hub/engineering-org-structures-the-qrf-team-model-7b92031db33c)
+- [Uber’s engineering level changes](https://newsletter.pragmaticengineer.com/p/ubers-engineering-level-changes?utm_source=substack&utm_medium=email)
 
 ### Engineering Values
 - [My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
