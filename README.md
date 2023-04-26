@@ -15,8 +15,27 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - My [Plum profile](https://secure.plum.io/en/p/GJtsHytBzrRYHVJaTUM4Cg)
 
 ## 📚 Books
+- Turn the Ship Around
+- Become an Effective Software Engineering Manager
+- Remote Work
+- Leading Snowflakes
+- Software Engineering - The Soft Parts
+- High Output Management
+- Mythical Man Month
+- Crucial Conversations
+- Radical Candor
 
 ## 🤓 Courses / Training
+
+## 🤝 Management Resources
+- [The Management Center](https://www.managementcenter.org/resources/)
+- [LeadDev](https://leaddev.com/) - Learn effective engineering management and leadership.
+
+## 💡 Thoughts from other Managers
+- [Managing the First Year](https://alexkgold.space/mfy.html#appendix-book-recommendations), Alex K Gold
+
+## 📧 Newsletters
+- [LeadDev](https://leaddev.com/newsletter)
 
 ## ⚙️ Engineering Management Resources
 
