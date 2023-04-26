@@ -266,6 +266,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [330 Icebreaker Questions to Try with your Team](https://www.parabol.co/resources/icebreaker-questions/#Funny-icebreaker-questions)
 
 #### Dailies
+- 🧰 [Standup Alice Bot](https://www.standupalice.com/)
 - [Why Your Team Members Need Daily Check-Ins](https://hbr.org/2022/09/why-your-team-members-need-daily-check-ins?utm_medium=email&utm_source=newsletter_daily&utm_campaign=mtod_actsubs&utm_content=signinnudge#)
 - [Async daily standups: the pros & cons](https://www.range.co/blog/asynchronous-daily-standups)
 
@@ -275,6 +276,9 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - 📜 [FunRetrospectives - Activities and ideas for making agile retrospectives more engaging](https://www.funretrospectives.com/)
 - [Growing our team with retrospectives](https://plaid.com/blog/growing-our-team-with-retrospectives/)
 - [SWOT Analysis](https://www.mindtools.com/amtbj63/swot-analysis)
+
+#### After-Action Reviews
+- [What are after action reviews (AARs)?](https://asana.com/resources/after-action-review-template)
 
 #### Weekly updates
 - [Bricks of Love: create purpose and engagement with weekly updates](https://world.hey.com/joaoqalves/bricks-of-love-create-purpose-and-engagement-with-weekly-updates-4a91aa61)
