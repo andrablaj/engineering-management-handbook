@@ -89,7 +89,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 
 ## 🤓 Courses
 - [Rippleworks - Growing Yourself](https://www.rippleworks.org/leaders-studio/growing-yourself/) - Mastering leadership begins with managing self
-- 🧰 [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb)
+- 🧰 [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb). Building a *second brain* is about creating a system – outside your physical skin-and-bone bodily boundaries – for storing, organising, and eventually transforming information.
 - [Code with Mosh](https://codewithmosh.com/courses)
 - [Educative.io](https://www.educative.io/)
 
@@ -100,10 +100,10 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 
 ## 👥 Engineering Management Handbooks
 - [How Engineering Management Works at GitLab](https://about.gitlab.com/handbook/engineering/management/)
-- [Awesome Engineering Manager's Handbook](https://github.com/ostronom/awesome-engineering-managers-handbook)
-- [The Engineering Manager's Booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)
-- [Manager's Playbook](https://github.com/ksindi/managers-playbook)
-- [Engineering Management](https://github.com/charlax/engineering-management)
+- [ostronom/awesome-engineering-managers-handbook](https://github.com/ostronom/awesome-engineering-managers-handbook)
+- [jesselpalmer/the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)
+- [ksindi/managers-playbook](https://github.com/ksindi/managers-playbook)
+- [charlax/engineering-management](https://github.com/charlax/engineering-management)
 - [The Big List of Engineering Management Resources](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
 
 ## 💡 Thoughts from other Managers
@@ -143,6 +143,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Obvious - The Engineering Playbook](https://playbook.obvious.in/the-engineering-playbook)
 - [Thoughtbot Playbook](https://thoughtbot.com/playbook)
 - [Atlassian Engineering’s handbook: a guide for autonomous teams](https://www.atlassian.com/engineering/handbook)
+- [How to make (almost) anything](https://fab.cba.mit.edu/classes/863.20/)
 - [Human Made - Engineering Handbook](https://engineering.hmn.md/how-we-work/team/structure/)
 
 ### Software Development Process
@@ -166,6 +167,9 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 ### System Design
 - [Designing a Payment System](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system?s=r)
+
+### Knowledge Management
+- [A collaborative newsroom documentation site, powered by Google Docs.](https://github.com/nytimes/library)
 
 ### Hiring
 - 🌎 [Hiring in a Distributed World](https://20222851.fs1.hubspotusercontent-na1.net/hubfs/20222851/Hiring%20in%20a%20Distributed%20World_Datapeople%20Fall%202022%20Hiring%20Report.pdf?utm_campaign=Hiring%20in%20a%20Distributed%20World%20Report_Oct%202022&utm_medium=email&_hsmi=230087200&_hsenc=p2ANqtz--3atiAjEQCOh0MuXc5HYSilGCzACtiM93ljZEP-_zq97LpNOvp_38vo1fi8kX9t9UznXdsGahGb7w2YWznmkVgZKLeqA&utm_content=230085729&utm_source=hs_email)
@@ -235,6 +239,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 ### Feedback
 - 📜 [The Management Center - 2×2 Feedback Form](https://www.managementcenter.org/resources/2x2-feedback-form/)
+- [The Management Center - Give More (and Better) Feedback with CSAW](https://www.managementcenter.org/resources/give-more-and-better-feedback-with-csaw/) - **CSAW** (Connect, Share, Ask, Wrap up)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss)
 
 ### Engineer - Manager - Engineer
@@ -281,7 +286,6 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Why Projects Fail](https://calleam.com/WTPF/)
 - [Why Projects Fail - 101 Common Causes](https://calleam.com/WTPF/?page_id=2338)
 - [The 15 Commitments](https://conscious.is/15-commitments)
-- [How to make (almost) anything](https://fab.cba.mit.edu/classes/863.20/)
 
 ## 🤡 Fun
 - [Ask a Manager](https://www.askamanager.org/)
