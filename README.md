@@ -142,6 +142,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Obvious - The Engineering Playbook](https://playbook.obvious.in/the-engineering-playbook)
 - [Thoughtbot Playbook](https://thoughtbot.com/playbook)
 - [Atlassian Engineering’s handbook: a guide for autonomous teams](https://www.atlassian.com/engineering/handbook)
+- [Human Made - Engineering Handbook](https://engineering.hmn.md/how-we-work/team/structure/)
 
 ### Software Development Process
 - [Reduce Friction](https://blog.ceejbot.com/posts/reduce-friction/)
