@@ -1,7 +1,6 @@
-Install `doctoc` by running: 
+- Install `doctoc` by running`npm install -g doctoc`
 
-`npm install -g doctoc`
-
-Run `install_hooks.sh` via:
-
-`sh .git_hooks/install_hooks.sh `
+- Run `sh .git_hooks/install_hooks.sh `
+- Install `pre-commit`with
+`  brew install pre-commit` (or check the [installation guide](https://pre-commit.com/) for your OS)
+- Run `pre-commit install` to set up the git hook scripts. Now `pre-commit` will run automatically on `git commit`!
