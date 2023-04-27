@@ -96,7 +96,7 @@ Favorite quote by [Dr. Rumman Chowdhury](https://www.linkedin.com/in/rumman/), S
 - [Educative.io](https://www.educative.io/)
 
 ## 🤝 Management Resources
-- [The Management Center](https://www.managementcente.org/resources/)
+- [The Management Center](https://www.managementcenter.org/resources/)
 - [LeadDev](https://leaddev.com/) - Learn effective engineering management and leadership
 - [GitLab Handbook](https://about.gitlab.com/handbook/)
 
