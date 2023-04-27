@@ -195,9 +195,10 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - 📜 [32 One-on-one Meeting Templates](https://hypercontext.com/agenda-templates?type=one-on-one)
 
 ### Engineering Objectives
+- 📜 [Objective Setting Workshop](https://docs.google.com/document/d/16k0o3MzGVWEQQILQecDs1tLwT3DFfY8eQb2PkQNoXts/edit?usp=sharing)
+- 📹 [Goal-Setting Workshops for Managers](https://www.youtube.com/watch?v=np1rZvM9GD4), Melinda Seckington
 - [Engineering Goals and OKR Examples](https://hypercontext.com/goal-examples/engineering)
 - [Good Goals, Bad Goals](https://cutlefish.substack.com/p/tbm-216-good-goalsbad-goals?utm_source=substack&utm_medium=email)
-- 📹 [Goal-Setting Workshops for Managers](https://www.youtube.com/watch?v=np1rZvM9GD4), Melinda Seckington
 - [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems)
 
 ### Engineering Roles
