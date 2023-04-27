@@ -155,12 +155,13 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [DevOps culture: Westrum organizational culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)
 
-### Technical Specifications/ADRs
+### Technical Specifications/ADRs/Design Docs
+- 📜 [Design Document Template](https://docs.google.com/document/d/18QEGC744hFPfPVDOQjCD_z_WD3axY1j_5DJfhtFBxqw/edit?usp=sharing)
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 - [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
 - [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/)
 - [Architectural Decision Records (ADRs)](https://adr.github.io/)
 - [On Architectural Decision Records ADRs](https://mastodon.social/@kevlin/109517740925744193)
-- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 
 ### Spikes & Experiments
 - [Experimentation as a company strategy](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
@@ -276,7 +277,8 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Growing our team with retrospectives](https://plaid.com/blog/growing-our-team-with-retrospectives/)
 - [SWOT Analysis](https://www.mindtools.com/amtbj63/swot-analysis)
 
-#### After-Action Reviews
+#### After-Action Reviews (AARs)
+- 📜 [AAR Template](https://docs.google.com/document/d/1MDBBxYkPjkdhZZKjNMNHe_msy6PVSl8SxXKhrgHsdOc/edit?usp=sharing)
 - [What are after action reviews (AARs)?](https://asana.com/resources/after-action-review-template)
 
 #### Weekly updates
