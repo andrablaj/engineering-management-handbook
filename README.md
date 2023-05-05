@@ -119,18 +119,18 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 
 ## 🗄️ Management
 - [How New Managers Fail Individual Contributors](https://www.elidedbranches.com/2021/10/how-new-managers-fail-individual.html)
-- [Soft Skills for Managers](https://staysaasy.com/product/2020/09/06/soft-skills-for-managers.html).Initiative, Emotional Control, Dispassionate Empathy.
+- [Soft Skills for Managers](https://staysaasy.com/product/2020/09/06/soft-skills-for-managers.html). Initiative, Emotional Control, Dispassionate Empathy.
 - [Don't Create Chaos](https://staysaasy.com/management/2020/07/07/dont-create-chaos.html). Great leaders vacuum up chaos. Be a source of stability.
 
 ## 💻 To Code or not to Code
 - ["Can't Code! Not inclined to Hire?" - Why Engineering Managers Don't Need to be Great Coders](https://www.scarletink.com/why-engineering-managers-dont-need-to-code/?utm_source=sendinblue&utm_campaign=Level%20Up%20-%20Issue%20193&utm_medium=email)
 
 ## 📧 Newsletters
-- [Software Lead Weekly](https://softwareleadweekly.com/)
-- [LeadDev](https://leaddev.com/newsletter)
-- [The Engineering Manager](https://theengineeringmanager.substack.com/embed)
-- [Developer to Manager](https://devtomanager.com/)
-- [Level Up](https://levelup.patkua.com/)
+- [Software Lead Weekly](https://softwareleadweekly.com/). A weekly email for busy people who care about people, culture and leadership.
+- [LeadDev](https://leaddev.com/newsletter). Develop your engineering management skills with weekly email updates from top tech experts through the LeadDev community.
+- [The Engineering Manager](https://theengineeringmanager.substack.com/embed). Tools, tips and discussions for current and aspiring engineering leaders.
+- [Developer to Manager](https://devtomanager.com/). Developer to Manager is a knowledge & career platform for software developers who plan to move to management.
+- [Level Up](https://levelup.patkua.com/). Level Up delivers a curated newsletter for leaders in tech. Ideal for busy people such as Tech Leads, Engineering Managers, VPs of Engineering, CTOs and more.
 - [Pointer.io](https://www.pointer.io/). A Reading Club For Software Developers.
 
 ## 🫂 Communities
