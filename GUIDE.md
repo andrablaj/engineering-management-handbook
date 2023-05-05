@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Install the pre-commit hook](#install-the-pre-commit-hook)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Install the pre-commit hook
+
 Install `doctoc` by running`npm install -g doctoc`.
 
 Run `sh .git_hooks/install_hooks.sh `.
