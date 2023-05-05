@@ -322,8 +322,11 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - 📜 [The Team Contracting Template](https://miro.com/app/board/uXjVOUBjgoo=/?invite_link_id=619196418742) - Miro board
 - [Team Contracts to outline the ground rules of a team](https://www.managementstudyguide.com/team-contracts.htm)
 
-### People Management
+### People Management Misc
 - 📜 [Vacation Coverage Plan Template](https://docs.google.com/document/d/1uM83Ld-gfFOscTKBro2Yb-yJITrMwBsZwiKE9hwSNzY/edit?usp=sharing)
+
+### Offboarding
+- 📜 [Offboarding Checklist Template](https://docs.google.com/spreadsheets/d/12bBFw55lZsa5gHXYQWWUo3MYb6RGGDBGJT_WqYHm3x4/edit?usp=sharing)
 
 ## Misc
 - [Classic Mistakes Enumerated](https://athena.ecs.csus.edu/~buckley/CSc233/McConnell_Classic%20Mistakes%20Enumerated.pdf)
