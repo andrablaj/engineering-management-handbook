@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Engineering Management Handbook](#engineering-management-handbook)
-  - [👩‍💻 About Me](#%E2%80%8D-about-me)
+  - [👩‍💻 About Me](#-about-me)
   - [🗺️ Legend](#-legend)
   - [📚 Books](#-books)
   - [🤓 Courses](#-courses)
@@ -13,7 +13,7 @@
   - [🗄️ Management](#-management)
   - [💻 To Code or not to Code](#-to-code-or-not-to-code)
   - [📧 Newsletters](#-newsletters)
-  - [🫂 Communities](#%F0%9F%AB%82-communities)
+  - [🫂 Communities](#-communities)
   - [⚙️ Engineering Management - All The Things](#-engineering-management---all-the-things)
     - [Managers READMEs](#managers-readmes)
     - [Engineering Playbooks](#engineering-playbooks)
