@@ -259,6 +259,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [The False Trade-off Between Quality and Speed](https://betterprogramming.pub/the-false-trade-off-between-quality-and-speed-7f0f9e93fdd)
 
 ### Performance Management
+- 📜 [Performance Review Questions](https://docs.google.com/document/d/19LIPr_6pLBib2mGPTDfvnyq85UAyumfSXbLP7MyCgIw/edit?usp=sharing)
 - 📹 [Drexler/Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/)
 - [Management Basics: Determining a Performance Rating](https://www.elidedbranches.com/2021/05/management-basics-determining.html). Method that splits goals up into three categories: **must be achieved**, **stretch goals**, and **moonshot goals**.
 - [Your Career - Performance & Promotion](https://axelerant.atlassian.net/wiki/spaces/OA/pages/2655060073/Your+Career+-+Performance+Promotion)
