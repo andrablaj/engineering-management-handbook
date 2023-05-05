@@ -1,57 +1,61 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Engineering Management Handbook](#engineering-management-handbook)
+  - [👩‍💻 About Me](#%E2%80%8D-about-me)
+  - [🗺️ Legend](#-legend)
+  - [📚 Books](#-books)
+  - [🤓 Courses](#-courses)
+  - [🤝 Management Resources](#-management-resources)
+  - [👥 Engineering Management Handbooks](#-engineering-management-handbooks)
+  - [💡 Thoughts from other Engineering Managers](#-thoughts-from-other-engineering-managers)
+  - [🗄️ Management](#-management)
+  - [💻 To Code or not to Code](#-to-code-or-not-to-code)
+  - [📧 Newsletters](#-newsletters)
+  - [🫂 Communities](#%F0%9F%AB%82-communities)
+  - [⚙️ Engineering Management - All The Things](#-engineering-management---all-the-things)
+    - [Managers READMEs](#managers-readmes)
+    - [Engineering Playbooks](#engineering-playbooks)
+    - [Software Development Process](#software-development-process)
+    - [Development](#development)
+    - [Technical Specifications/ADRs/Design Docs](#technical-specificationsadrsdesign-docs)
+    - [Spikes & Experiments](#spikes--experiments)
+    - [Technical Radar](#technical-radar)
+    - [System Design](#system-design)
+    - [Knowledge Management](#knowledge-management)
+    - [Hiring](#hiring)
+    - [Onboarding](#onboarding)
+    - [1:1s](#11s)
+    - [Engineering Objectives](#engineering-objectives)
+    - [Engineering Roles](#engineering-roles)
+    - [Engineering Values](#engineering-values)
+    - [Culture](#culture)
+    - [Delegation](#delegation)
+    - [Team Scaling](#team-scaling)
+    - [Build great stuff](#build-great-stuff)
+    - [Engineering ~~Metrics~~ Indicators](#engineering-metrics-indicators)
+    - [Performance Management](#performance-management)
+    - [Feedback](#feedback)
+    - [Engineer - Manager - Engineer](#engineer---manager---engineer)
+    - [Performance Improvement Plans - PIP](#performance-improvement-plans---pip)
+    - [Offboarding](#offboarding)
+    - [Remote Team Management](#remote-team-management)
+    - [Conversations](#conversations)
+      - [Ice breakers](#ice-breakers)
+      - [Dailies](#dailies)
+      - [Retros](#retros)
+      - [After-Action Reviews (AARs)](#after-action-reviews-aars)
+      - [Weekly updates](#weekly-updates)
+    - [Team Contracting](#team-contracting)
+  - [Misc](#misc)
+  - [🤡 Fun](#-fun)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Engineering Management Handbook
 
 💻 Resources for leading great teams of software engineers.
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-# Table of Contents
-
-- [👩‍💻 About Me](#-about-me)
-- [🗺️ Legend](#-legend)
-- [📚 Books](#-books)
-- [🤓 Courses](#-courses)
-- [🤝 Management Resources](#-management-resources)
-- [👥 Engineering Management Handbooks](#-engineering-management-handbooks)
-- [💡 Thoughts from other Managers](#-thoughts-from-other-managers)
-- [💻 To Code or not to Code](#-to-code-or-not-to-code)
-- [📧 Newsletters](#-newsletters)
-- [🫂 Communities](#-communities)
-- [⚙️ Engineering Management - All The Things](#-engineering-management---all-the-things)
-  - [Managers READMEs](#managers-readmes)
-  - [Engineering Playbooks](#engineering-playbooks)
-  - [Software Development Process](#software-development-process)
-  - [Technical Specifications/ADRs](#technical-specificationsadrs)
-  - [Spikes & Experiments](#spikes--experiments)
-  - [Technical Radar](#technical-radar)
-  - [System Design](#system-design)
-  - [Knowledge Management](#knowledge-management)
-  - [Hiring](#hiring)
-  - [Onboarding](#onboarding)
-  - [1:1s](#11s)
-  - [Engineering Objectives](#engineering-objectives)
-  - [Engineering Roles](#engineering-roles)
-  - [Engineering Values](#engineering-values)
-  - [Delegation](#delegation)
-  - [Team Scaling](#team-scaling)
-  - [Build great stuff](#build-great-stuff)
-  - [Engineering ~~Metrics~~ Indicators](#engineering-metrics-indicators)
-  - [Performance Management](#performance-management)
-  - [Feedback](#feedback)
-  - [Engineer - Manager - Engineer](#engineer---manager---engineer)
-  - [Performance Improvement Plans - PIP](#performance-improvement-plans---pip)
-  - [Offboarding](#offboarding)
-  - [Remote Team Management](#remote-team-management)
-  - [Conversations](#conversations)
-    - [Ice breakers](#ice-breakers)
-    - [Dailies](#dailies)
-    - [Retros](#retros)
-    - [After-Action Reviews](#after-action-reviews)
-    - [Weekly updates](#weekly-updates)
-  - [Team Contracting](#team-contracting)
-- [Misc](#misc)
-- [🤡 Fun](#-fun)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 👩‍💻 About Me
 
@@ -105,13 +109,18 @@ I started as an Engineering Manager in May 2021, and learnt a lot through great 
 - [charlax/engineering-management](https://github.com/charlax/engineering-management)
 - [The Big List of Engineering Management Resources](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
 
-## 💡 Thoughts from other Managers
+## 💡 Thoughts from other Engineering Managers
 - [Surprise! You’re an Engineering Manager. What now?](https://medium.com/cylinder-blog/surprise-youre-an-engineering-manager-what-now-4c8bf2f79be3)
 - [Managing the First Year](https://alexkgold.space/mfy.html#appendix-book-recommendations), Alex K Gold
 - [Developer turned Manager](https://stackoverflow.blog/2015/08/07/developer-turned-manager/)
 - [Things I've learned transitioning from engineer to engineering manager](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/)
 - [Eng Mgmt series](https://mvndrz.medium.com/eng-mgmt-ep1-should-i-become-an-engineering-manager-beba99db4662), Matthew Vanderzee
 - [Good engineering manager vs Bad engineering manager](https://medium.com/@rabashani/good-engineering-manager-vs-bad-engineering-manager-becbfd27d3d7)
+
+## 🗄️ Management
+- [How New Managers Fail Individual Contributors](https://www.elidedbranches.com/2021/10/how-new-managers-fail-individual.html)
+- [Soft Skills for Managers](https://staysaasy.com/product/2020/09/06/soft-skills-for-managers.html).Initiative, Emotional Control, Dispassionate Empathy.
+- [Don't Create Chaos](https://staysaasy.com/management/2020/07/07/dont-create-chaos.html). Great leaders vacuum up chaos. Be a source of stability.
 
 ## 💻 To Code or not to Code
 - ["Can't Code! Not inclined to Hire?" - Why Engineering Managers Don't Need to be Great Coders](https://www.scarletink.com/why-engineering-managers-dont-need-to-code/?utm_source=sendinblue&utm_campaign=Level%20Up%20-%20Issue%20193&utm_medium=email)
@@ -130,7 +139,7 @@ I started as an Engineering Manager in May 2021, and learnt a lot through great 
 ## ⚙️ Engineering Management - All The Things
 
 ### Managers READMEs
-I have a love-hate relation with Manager READMEs, as I am never confident that I am 100% self-aware (I am working hard to get better at that). While I do believe READMEs can be a great tool for getting to know our colleagues and their working preferences, I also believe that one needs a high level of self awareness and humility to get it right. 
+I have a love-hate relation with Manager READMEs, as I am never confident that I am 100% self-aware (I am working hard to get better at that). While I do believe READMEs can be a great tool for getting to know our colleagues and their working preferences, I also believe that one needs a high level of self awareness and humility to get it right.
 
 - [Manager README](https://managerreadme.com/?r=ls). Great examples in the [Community section](https://managerreadme.com/community)
 - [GitLab Engineering READMEs](https://about.gitlab.com/handbook/engineering/readmes/)
@@ -151,6 +160,10 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 ### Software Development Process
 - [Reduce Friction](https://blog.ceejbot.com/posts/reduce-friction/)
+- [Creating Good Process](https://staysaasy.com/process/2020/04/06/Creating-Good-Process.html). Triggers - Actions - Review.
+
+### Development
+- [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 - [Code Review Best Practices](https://blog.palantir.com/code-review-best-practices-19e02780015f)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [DevOps culture: Westrum organizational culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)
@@ -210,6 +223,12 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 ### Engineering Values
 - [My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
 
+### Culture
+- [Driving Cultural Change Through Software Choices](https://skamille.medium.com/driving-cultural-change-through-software-choices-bf69d2db6539).
+  - _Developers have more power than they imagine to change the engineering culture around them. As you build software that others will use or that your peers will work on, are you making it easy for them to do the right thing? If you build platforms, bake in easy integrations for the software values you want to see. If you’re in the position to choose new tools, pick ones that support the standards you want taken seriously. And as you write code, make it easy for others who will copy-paste what you’ve done to then do the right thing._
+  - _I’ve never met an engineer who didn’t occasionally copy-paste-modify some code. One of my earliest professional software lessons was that when you set up a codebase full of tests, other engineers are likely to write tests for their code because there will be lots of examples for how to test. This generalizes to the observation that people are most likely to take an existing thing and tweak it into a new thing that does what they need, and in the process they will take the good and bad from that existing thing. So if you want them to follow a best practice, put it in their starting templates._
+  - _We can go further than observability. Security can be a process, or a cultural value, but you can also go quite far by providing tools and platforms that have good security practices baked in to them, so that you’re not relying on the good citizenship of your development team. Testing is often hampered by the overhead of running tests, and investment into infrastructure that makes tests easy and fast to run is important to supporting a culture of software quality validation._
+
 ### Delegation
 - 📜 [The Management Center - Delegation Worksheet](https://www.managementcenter.org/resources/delegation-worksheet/)
 - [when to delegate, when to say no](https://larahogan.me/blog/when-to-delegate-when-to-say-no/)
@@ -227,6 +246,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 ### Build great stuff
 - 📹 [Output vs. Outcome & Impact](https://vimeo.com/206617354)
+- [When they don’t know what to do, they’ll do what they know.](https://marcusblankenship.com/when-they-dont-know-what-to-do-theyll-do-what-they-know/)
 - [Jason’s perspective on effective product development culture](https://scribe.rip/effective-product-development-culture-circa-2022-835e2787b4f4)
 - [A decade of building (pretty) great software data products](https://www.craft.do/s/RlIjEn1JrvHgDQ)
 - [PM & EM: Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)
@@ -260,7 +280,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [GitLab - How to embrace asynchronous communication for remote work](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 - [10 ideas for building high-performing remote teams](https://www.linkedin.com/posts/nathanbarry_10-remote-team-tips-activity-6992113408070361088-M2Rh/)
 
-### Conversations 
+### Conversations
 - [A field guide to dudes who ruin meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw)
 
 #### Ice breakers
@@ -268,8 +288,10 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 #### Dailies
 - 🧰 [Standup Alice Bot](https://www.standupalice.com/)
+- 🌎 [Goodbye Standups, Hello Wrap-Ups: Rethinking team alignment for asynchronous, remote work](https://blog.xmtp.com/goodbye-standups-hello-wrap-ups/)
 - [Why Your Team Members Need Daily Check-Ins](https://hbr.org/2022/09/why-your-team-members-need-daily-check-ins?utm_medium=email&utm_source=newsletter_daily&utm_campaign=mtod_actsubs&utm_content=signinnudge#)
 - [Async daily standups: the pros & cons](https://www.range.co/blog/asynchronous-daily-standups)
+- [57 Daily Standup Questions for More Engaging Updates](https://www.parabol.co/resources/daily-standup-questions/)
 
 #### Retros
 - 🧰 [Stickies.io](https://stickies.io/)
