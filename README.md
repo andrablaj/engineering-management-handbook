@@ -39,7 +39,6 @@
     - [Feedback](#feedback)
     - [Engineer - Manager - Engineer](#engineer---manager---engineer)
     - [Performance Improvement Plans - PIP](#performance-improvement-plans---pip)
-    - [Offboarding](#offboarding)
     - [Remote Team Management](#remote-team-management)
     - [Conversations](#conversations)
       - [Ice breakers](#ice-breakers)
