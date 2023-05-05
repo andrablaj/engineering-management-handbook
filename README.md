@@ -134,7 +134,7 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 - [Pointer.io](https://www.pointer.io/). A Reading Club For Software Developers.
 
 ## 🫂 Communities
-- [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
+- [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/). The Rands Leadership Slack (“RLS”) exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.
 
 ## ⚙️ Engineering Management - All The Things
 
@@ -145,7 +145,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [GitLab Engineering READMEs](https://about.gitlab.com/handbook/engineering/readmes/)
 - [49 Manager READMEs](https://hypercontext.com/blog/management-skills/49-manager-readmes)
 - [A user guide to me](https://codingfearlessly.com/a-user-guide-to-me)
-- [I hate manager READMEs](https://skamille.medium.com/i-hate-manager-readmes-20a0dd9a70d0), [Camille Fournier](https://skamille.medium.com/)
+- [I hate manager READMEs](https://skamille.medium.com/i-hate-manager-readmes-20a0dd9a70d0), by [Camille Fournier](https://skamille.medium.com/)
 - [Why I stopped using Manager READMEs and no longer recommend them](https://mattnewkirk.com/2022/03/07/why-i-stopped-using-manager-readmes-and-no-longer-recommend-them/)
 
 ### Engineering Playbooks
