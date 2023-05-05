@@ -217,6 +217,8 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 ### Engineering Roles
 - [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/)
 - [What We Did Differently With Pleo’s Engineering Career Framework](https://eng.pleo.io/what-we-did-differently-with-pleos-engineering-career-framework-635f1e31dcfc)
+- [Software Development/Leadership Ladder, multi-track, public](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
+- [An incomplete list of skills senior engineers need, beyond coding](https://www.elidedbranches.com/2021/06/an-incomplete-list-of-skills-senior.html)
 - [Engineering Org Structures— The QRF Team Model](https://medium.com/engineering-manager-hub/engineering-org-structures-the-qrf-team-model-7b92031db33c)
 - [Uber’s engineering level changes](https://newsletter.pragmaticengineer.com/p/ubers-engineering-level-changes?utm_source=substack&utm_medium=email)
 
@@ -259,6 +261,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 ### Performance Management
 - 📹 [Drexler/Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/)
+- [Management Basics: Determining a Performance Rating](https://www.elidedbranches.com/2021/05/management-basics-determining.html). Method that splits goals up into three categories: **must be achieved**, **stretch goals**, and **moonshot goals**.
 - [Your Career - Performance & Promotion](https://axelerant.atlassian.net/wiki/spaces/OA/pages/2655060073/Your+Career+-+Performance+Promotion)
 - [Moving Motivators](https://easyretro.io/tools/moving-motivators/)
 
