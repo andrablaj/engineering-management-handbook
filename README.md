@@ -47,6 +47,7 @@
       - [After-Action Reviews (AARs)](#after-action-reviews-aars)
       - [Weekly updates](#weekly-updates)
     - [Team Contracting](#team-contracting)
+    - [People Management](#people-management)
   - [Misc](#misc)
   - [🤡 Fun](#-fun)
 
