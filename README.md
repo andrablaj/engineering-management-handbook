@@ -61,7 +61,7 @@
 
 I am a tech professional & international development enthusiast with more than 10-year experience in software engineering and leadership roles.
 
-I started as an Engineering Manager in May 2021, and learnt a lot through great resources I found all over the Internet. My life would have been a lot tougher without these amazing authors who shared their experiences and advice, and I am extremely grateful for that. This handbook is a compilation of links and templates that supported me in my Engineering Management journey.
+I started as an Engineering Manager in May 2021, and learnt a lot through great resources I found online. My life would have been a lot tougher without these fantastic authors who shared their experiences and advice, and I am extremely grateful for that. This handbook is a compilation of links and templates that supported me in my Engineering Management journey.
 
 - [My Manager README](Andra's-Manager-README.md)
 - I am a [Protagonist in 16Personalities](https://www.16personalities.com/enfj-personality)
