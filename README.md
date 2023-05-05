@@ -61,7 +61,7 @@
 
 I am a tech professional & international development enthusiast with more than 10-year experience in software engineering and leadership roles.
 
-I started as an Engineering Manager in May 2021, and learnt a lot through great resources I found online. My life would have been a lot tougher without these fantastic authors who shared their experiences and advice, and I am extremely grateful for that. This handbook is a compilation of links and templates that supported me in my Engineering Management journey.
+I started as an Engineering Manager in May 2021 and learned a lot through the great resources I found online. My life would have been a lot tougher without these fantastic authors who shared their experiences and advice, and I am incredibly grateful for that. This handbook is a compilation of links and templates that supported me in my Engineering Management journey. I am sharing it here, hoping it will serve others going through the same career transition.
 
 - [My Manager README](Andra's-Manager-README.md)
 - I am a [Protagonist in 16Personalities](https://www.16personalities.com/enfj-personality)
@@ -262,6 +262,8 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 ### Performance Management
 - 📜 [Performance Review Questions](https://docs.google.com/document/d/19LIPr_6pLBib2mGPTDfvnyq85UAyumfSXbLP7MyCgIw/edit?usp=sharing)
 - 📹 [Drexler/Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/)
+- [The 9-Box Grid: Benefits & Limitations in 2023](https://whatfix.com/blog/9-box-grid/#:~:text=The%209%2Dbox%20grid%20is,employees%20across%20different%20performance%20groupings.)
+- 📜 [9 Box Template](https://docs.google.com/spreadsheets/d/19PugzjAPoWDD-baJp_PnWvzWsYmhjkIjwNYVvmF1Ins/edit?usp=sharing)
 - [Management Basics: Determining a Performance Rating](https://www.elidedbranches.com/2021/05/management-basics-determining.html). Method that splits goals up into three categories: **must be achieved**, **stretch goals**, and **moonshot goals**.
 - [Your Career - Performance & Promotion](https://axelerant.atlassian.net/wiki/spaces/OA/pages/2655060073/Your+Career+-+Performance+Promotion)
 - [Moving Motivators](https://easyretro.io/tools/moving-motivators/)
