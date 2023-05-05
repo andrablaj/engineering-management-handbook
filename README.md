@@ -275,8 +275,9 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 
 ### Performance Improvement Plans - PIP
-
-### Offboarding
+- 📜 [Formal Performance Warning Sample](https://docs.google.com/document/d/1VlRhQlJ5l_hZ52DqEGcsRnOQBEYyQjGH/edit?usp=sharing&ouid=115678069814209351088&rtpof=true&sd=true)
+- 📜 [Performance Improvement Plan PIP Template](https://docs.google.com/document/d/1m0LdVVGI_0HTHum-2aXTRI84B5D4iYXj/edit?usp=sharing&ouid=115678069814209351088&rtpof=true&sd=true)
+- [The Management Center - Performance Problems](https://www.managementcenter.org/performance-problems-2/). Includes a Performance Improvement Plan Toolkit.
 
 ### Remote Team Management
 - [GitLab - The Remote Playbook](https://learn.gitlab.com/coursera-remote-work#page=1)
