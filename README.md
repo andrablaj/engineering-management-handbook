@@ -210,12 +210,14 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 ### Engineering Objectives
 - 📜 [Objective Setting Workshop](https://docs.google.com/document/d/16k0o3MzGVWEQQILQecDs1tLwT3DFfY8eQb2PkQNoXts/edit?usp=sharing)
 - 📹 [Goal-Setting Workshops for Managers](https://www.youtube.com/watch?v=np1rZvM9GD4), Melinda Seckington
+- 📜 [Objective Tracker Template](https://docs.google.com/spreadsheets/d/1XZCZ47VDcS0aYl9v2hat4jbJQA9xVqG2wVMW_OrnHmY/edit?usp=sharing)
 - [Engineering Goals and OKR Examples](https://hypercontext.com/goal-examples/engineering)
 - [Good Goals, Bad Goals](https://cutlefish.substack.com/p/tbm-216-good-goalsbad-goals?utm_source=substack&utm_medium=email)
 - [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems)
 
 ### Engineering Roles
 - [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/)
+- 📜 [CircleCI Engineering Competency Matrix](https://docs.google.com/spreadsheets/d/19s8u_tEJ_m7vnDwE-LZMjuQGruL-2Vdt/edit#gid=2038584399)
 - [What We Did Differently With Pleo’s Engineering Career Framework](https://eng.pleo.io/what-we-did-differently-with-pleos-engineering-career-framework-635f1e31dcfc)
 - [Software Development/Leadership Ladder, multi-track, public](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
 - [An incomplete list of skills senior engineers need, beyond coding](https://www.elidedbranches.com/2021/06/an-incomplete-list-of-skills-senior.html)
