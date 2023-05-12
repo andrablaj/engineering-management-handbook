@@ -121,6 +121,7 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 ## 🗄️ Management
 - [How New Managers Fail Individual Contributors](https://www.elidedbranches.com/2021/10/how-new-managers-fail-individual.html)
 - [Soft Skills for Managers](https://staysaasy.com/product/2020/09/06/soft-skills-for-managers.html). Initiative, Emotional Control, Dispassionate Empathy.
+- [Evaluating Managers: 5 heuristics to measure managerial impact](https://abdulapopoola.com/2023/01/09/evaluating-managers-5-heuristics-to-measure-managerial-impact/). Five signals that should provide some early to medium-term signals to facilitate early course correction or doubling down on strengths: Execution, Strategic Vision, People Management, Team Growth, and Organizational Influence.
 - [Don't Create Chaos](https://staysaasy.com/management/2020/07/07/dont-create-chaos.html). Great leaders vacuum up chaos. Be a source of stability.
 
 ## 💻 To Code or not to Code
