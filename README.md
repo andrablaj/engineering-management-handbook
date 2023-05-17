@@ -96,7 +96,7 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 - 🧰 [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb). Building a *second brain* is about creating a system – outside your physical skin-and-bone bodily boundaries – for storing, organising, and eventually transforming information.
 - [Code with Mosh](https://codewithmosh.com/courses)
 - [Educative.io](https://www.educative.io/)
-- 📹 [Speaking with confidence]([https://www.educative.io/](https://www.linkedin.com/learning/communicating-with-confidence/speaking-with-confidence)
+- 📹 [Speaking with confidence](https://www.linkedin.com/learning/communicating-with-confidence/speaking-with-confidence)
 
 ## 🤝 Management Resources
 - [The Management Center](https://www.managementcenter.org/resources/)
