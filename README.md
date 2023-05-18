@@ -182,6 +182,9 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 ### Spikes & Experiments
 - [Experimentation as a company strategy](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
 
+### Technical Debt
+- [The Effects of Technical Debt on Morale](https://newsletter.abinoda.com/p/tech-debt-and-morale?utm_source=substack&utm_medium=email). It wastes time, it makes developers unhappy, it makes developers less productive, it leads to turnover, it influences developer morale. 
+
 ### Technical Radar
 - [ThoughtWorks Technical Radar](https://www.thoughtworks.com/radar)
 
