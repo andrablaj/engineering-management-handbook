@@ -153,7 +153,6 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 ### Engineering Playbooks
 - [Microsoft Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
-- [John Lewis IT Software Engineering Principles](http://engineering-principles.onejl.uk/)
 - [GitLab Engineering Handbook](https://about.gitlab.com/handbook/engineering/)
 - [Obvious - The Engineering Playbook](https://playbook.obvious.in/the-engineering-playbook)
 - [Thoughtbot Playbook](https://thoughtbot.com/playbook)
