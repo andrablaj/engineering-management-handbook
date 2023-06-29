@@ -187,6 +187,8 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 ### Technical Radar
 - [ThoughtWorks Technical Radar](https://www.thoughtworks.com/radar)
+- [Technology Radar for Technology Strategy. What is it and how to build it?](https://medium.com/@AndreyNovikov/technology-radar-for-technology-strategy-what-is-it-and-how-to-build-it-ec4dcb8ce554)
+- [AOE Technology Radar](https://github.com/AOEpeople/aoe_technology_radar)
 
 ### System Design
 - [Designing a Payment System](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system?s=r)
