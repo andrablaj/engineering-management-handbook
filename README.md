@@ -266,6 +266,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [PM & EM: Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)
 - [The Product Culture Shift](https://www.elidedbranches.com/2022/08/the-product-culture-shift.html)
 - [DORA Metrics: We’ve Been Using Them Wrong](https://devinterrupted.substack.com/p/dora-metrics-weve-been-using-them-00c). The 4-step Process to Improve DORA Metrics: Benchmark Your Performance, Look at the Leading Indicators, Establish Team Working Agreements, Optimize Developer Workflow.
+- [How to do great things](http://paulgraham.com/greatwork.html). "When you read biographies of people who've done great work, it's remarkable how much luck is involved. They discover what to work on as a result of a chance meeting, or by reading a book they happen to pick up. So you need to make yourself a big target for luck, and the way to do that is to be curious. Try lots of things, meet lots of people, read lots of books, ask lots of questions."
 
 ### Engineering ~~Metrics~~ Indicators
 - [KPIs, Velocity, and Other Destructive Metrics](https://holub.com/kpis-velocity-and-other-destructive-metrics/)
