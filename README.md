@@ -264,6 +264,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [A decade of building (pretty) great software data products](https://www.craft.do/s/RlIjEn1JrvHgDQ)
 - [PM & EM: Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)
 - [The Product Culture Shift](https://www.elidedbranches.com/2022/08/the-product-culture-shift.html)
+- [DORA Metrics: We’ve Been Using Them Wrong](https://devinterrupted.substack.com/p/dora-metrics-weve-been-using-them-00c). The 4-step Process to Improve DORA Metrics: Benchmark Your Performance, Look at the Leading Indicators, Establish Team Working Agreements, Optimize Developer Workflow.
 
 ### Engineering ~~Metrics~~ Indicators
 - [KPIs, Velocity, and Other Destructive Metrics](https://holub.com/kpis-velocity-and-other-destructive-metrics/)
