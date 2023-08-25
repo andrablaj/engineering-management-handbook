@@ -168,6 +168,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 - [Code Review Best Practices](https://blog.palantir.com/code-review-best-practices-19e02780015f)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [Consultative QA as a way to empower engineering teams](https://leaddev.com/team/consultative-qa-way-empower-engineering-teams?utm_source=ActiveCampaign&utm_medium=email&utm_content=Do+you+hate+performance+reviews+too%3F&utm_campaign=Originals+-+Issue+153+%28August+24%29)
 - [DevOps culture: Westrum organizational culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)
 
 ### Technical Specifications/ADRs/Design Docs
