@@ -345,6 +345,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - 📜 [Offboarding Checklist Template](https://docs.google.com/spreadsheets/d/12bBFw55lZsa5gHXYQWWUo3MYb6RGGDBGJT_WqYHm3x4/edit?usp=sharing)
 
 ## Misc
+- [Are you serious?](https://visakanv.substack.com/p/are-you-serious)
 - [Classic Mistakes Enumerated](https://athena.ecs.csus.edu/~buckley/CSc233/McConnell_Classic%20Mistakes%20Enumerated.pdf)
 - [Why Projects Fail](https://calleam.com/WTPF/)
 - [Why Projects Fail - 101 Common Causes](https://calleam.com/WTPF/?page_id=2338)
