@@ -20,6 +20,7 @@ My primary responsibility is to support and grow engineers to build relevant and
 ## Values ✨
 - **People First**, as happy, informed, and productive people build awesome things.
 - When in doubt, **over-communicate**.
+- [**Own it Mentality**](https://perell.com/essay/own-it-mentality/). I give people lots of autonomy. I don’t micromanage. In return, I expect people to take initiative, be proactive, communicate well, and follow through on their commitments. So long as they have an Own It Mentality, I don’t care how much somebody works, when they work, or where they work from.
 - **Commitment**. We are present when we come to work. We give it our best. We choose to be here.
 - **Integrity**. *Integrity is doing the right thing, even when no one is watching.* (C. S. Lewis). We tell the truth to each other and ourselves. We see things as they are, not as we want them to be.
 
