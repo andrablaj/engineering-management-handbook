@@ -90,6 +90,7 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 - [Radical Candor](https://www.radicalcandor.com/the-book/) - Be a Kick-Ass Boss Without Losing Your Humanity, Kim Scott
 - [Continuous Discovery Habits](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309) - Discover Products that Create Customer Value and Business Value, Teresa Torres
 - [Leverage Points - Places to Intervene in a System](https://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf), Donella Meadows
+- [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/), Camille Fournier
 
 ## 🤓 Courses
 - [Rippleworks - Growing Yourself](https://www.rippleworks.org/leaders-studio/growing-yourself/) - Mastering leadership begins with managing self
