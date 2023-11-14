@@ -94,6 +94,7 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 
 ## 🤓 Courses
 - [Rippleworks - Growing Yourself](https://www.rippleworks.org/leaders-studio/growing-yourself/) - Mastering leadership begins with managing self
+- [Rippleworks - Managing at Your Best](https://www.rippleworks.org/leaders-studio/managing-at-your-best/) - Leading with intention and purpose as a rising manager
 - 🧰 [Building a Second Brain: The Illustrated Notes](https://maggieappleton.com/basb). Building a *second brain* is about creating a system – outside your physical skin-and-bone bodily boundaries – for storing, organising, and eventually transforming information.
 - [Code with Mosh](https://codewithmosh.com/courses)
 - [Educative.io](https://www.educative.io/)
