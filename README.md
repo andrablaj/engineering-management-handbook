@@ -131,9 +131,8 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 ## 📧 Newsletters
 - [Software Lead Weekly](https://softwareleadweekly.com/). A weekly email for busy people who care about people, culture and leadership.
 - [LeadDev](https://leaddev.com/newsletter). Develop your engineering management skills with weekly email updates from top tech experts through the LeadDev community.
+- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/?utm_source=substack&utm_medium=email&utm_content=share). Relevant for software engineers and engineering managers, useful for those working in tech.
 - [The Engineering Manager](https://theengineeringmanager.substack.com/embed). Tools, tips and discussions for current and aspiring engineering leaders.
-- [Developer to Manager](https://devtomanager.com/). Developer to Manager is a knowledge & career platform for software developers who plan to move to management.
-- [Level Up](https://levelup.patkua.com/). Level Up delivers a curated newsletter for leaders in tech. Ideal for busy people such as Tech Leads, Engineering Managers, VPs of Engineering, CTOs and more.
 - [Pointer.io](https://www.pointer.io/). A Reading Club For Software Developers.
 
 ## 🫂 Communities
