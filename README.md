@@ -127,6 +127,7 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 - [Soft Skills for Managers](https://staysaasy.com/product/2020/09/06/soft-skills-for-managers.html). Initiative, Emotional Control, Dispassionate Empathy.
 - [Evaluating Managers: 5 heuristics to measure managerial impact](https://abdulapopoola.com/2023/01/09/evaluating-managers-5-heuristics-to-measure-managerial-impact/). Five signals that should provide some early to medium-term signals to facilitate early course correction or doubling down on strengths: Execution, Strategic Vision, People Management, Team Growth, and Organizational Influence.
 - [Don't Create Chaos](https://staysaasy.com/management/2020/07/07/dont-create-chaos.html). Great leaders vacuum up chaos. Be a source of stability.
+- [How to Build Trust](https://jacobian.org/2023/nov/16/how-to-build-trust/). You can’t build trust through artificial “trust building” exercises, nor can you say “trust me” and expect it to work. The only way you can build trust is by demonstrating, over time, that you’re deserving of trust.
 
 ## 💻 To Code or not to Code
 - ["Can't Code! Not inclined to Hire?" - Why Engineering Managers Don't Need to be Great Coders](https://www.scarletink.com/why-engineering-managers-dont-need-to-code/?utm_source=sendinblue&utm_campaign=Level%20Up%20-%20Issue%20193&utm_medium=email)
