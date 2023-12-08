@@ -92,6 +92,7 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 - [Leverage Points - Places to Intervene in a System](https://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf), Donella Meadows
 - [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/), Camille Fournier
 - [An Elegant Puzzle: Systems of Engineering Management](https://press.stripe.com/an-elegant-puzzle), Will Larson
+- [Drive - The Surprising Truth About What Motivates Us](https://www.danpink.com/books/drive/), by Daniel H. Pink
 
 ## 🤓 Courses
 - [Rippleworks - Growing Yourself](https://www.rippleworks.org/leaders-studio/growing-yourself/) - Mastering leadership begins with managing self
