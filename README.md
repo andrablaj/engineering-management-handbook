@@ -231,6 +231,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 ### Engineering Roles
 - [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/)
+- [Career framework inspiration from the world's best companies](https://progression.fyi/)
 - 📜 [CircleCI Engineering Competency Matrix](https://docs.google.com/spreadsheets/d/19s8u_tEJ_m7vnDwE-LZMjuQGruL-2Vdt/edit#gid=2038584399)
 - [What We Did Differently With Pleo’s Engineering Career Framework](https://eng.pleo.io/what-we-did-differently-with-pleos-engineering-career-framework-635f1e31dcfc)
 - [Software Development/Leadership Ladder, multi-track, public](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
