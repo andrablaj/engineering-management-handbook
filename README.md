@@ -122,6 +122,7 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 - [Things I've learned transitioning from engineer to engineering manager](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/)
 - [Eng Mgmt series](https://mvndrz.medium.com/eng-mgmt-ep1-should-i-become-an-engineering-manager-beba99db4662), Matthew Vanderzee
 - [Good engineering manager vs Bad engineering manager](https://medium.com/@rabashani/good-engineering-manager-vs-bad-engineering-manager-becbfd27d3d7)
+- [Why should you (or anyone) become an engineering manager?](https://charity.wtf/2023/12/15/why-should-you-or-anyone-become-an-engineering-manager/). (...) technical skills do decay and become obsolete, particularly language fluency, but people skills do not. Once you have built these muscles, you will carry them with you for life. They will enhance your ability to connect with people and build trust, to listen perceptively and communicate clearly. Whatever you decide to do with your life, they will increase your optionality and make you more effective.
 
 ## 🗄️ Management
 - [How New Managers Fail Individual Contributors](https://www.elidedbranches.com/2021/10/how-new-managers-fail-individual.html)
