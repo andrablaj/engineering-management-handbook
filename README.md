@@ -226,6 +226,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - 📜 [Objective Setting Workshop](https://docs.google.com/document/d/16k0o3MzGVWEQQILQecDs1tLwT3DFfY8eQb2PkQNoXts/edit?usp=sharing)
 - 📹 [Goal-Setting Workshops for Managers](https://www.youtube.com/watch?v=np1rZvM9GD4), Melinda Seckington
 - 📜 [Objective Tracker Template](https://docs.google.com/spreadsheets/d/1XZCZ47VDcS0aYl9v2hat4jbJQA9xVqG2wVMW_OrnHmY/edit?usp=sharing)
+- [2024 Guide to Goals for Software Engineers](https://careercutler.substack.com/p/2024-guide-to-goals-for-software)
 - [Engineering Goals and OKR Examples](https://hypercontext.com/goal-examples/engineering)
 - [Good Goals, Bad Goals](https://cutlefish.substack.com/p/tbm-216-good-goalsbad-goals?utm_source=substack&utm_medium=email)
 - [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems)
