@@ -131,9 +131,11 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 - [Don't Create Chaos](https://staysaasy.com/management/2020/07/07/dont-create-chaos.html). Great leaders vacuum up chaos. Be a source of stability.
 - [How to Build Trust](https://jacobian.org/2023/nov/16/how-to-build-trust/). You can’t build trust through artificial “trust building” exercises, nor can you say “trust me” and expect it to work. The only way you can build trust is by demonstrating, over time, that you’re deserving of trust.
 - [New Engineering Managers Have a High Failure Rate — This Figma Leader is on a Mission to Fix It](https://review.firstround.com/new-engineering-manager-advice)
+- [The Good Engineering Manager Framework](https://hybridhacker.email/p/the-good-engineering-manager-framework)
 
 ## 💻 To Code or not to Code
 - ["Can't Code! Not inclined to Hire?" - Why Engineering Managers Don't Need to be Great Coders](https://www.scarletink.com/why-engineering-managers-dont-need-to-code/?utm_source=sendinblue&utm_campaign=Level%20Up%20-%20Issue%20193&utm_medium=email)
+- [Should you Stay Technical as an Engineering Manager?](https://hybridhacker.email/p/staying-technical-as-an-engineering-manger)
 
 ## 📧 Newsletters
 - [Software Lead Weekly](https://softwareleadweekly.com/). A weekly email for busy people who care about people, culture and leadership.
@@ -360,6 +362,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Why Projects Fail](https://calleam.com/WTPF/)
 - [Why Projects Fail - 101 Common Causes](https://calleam.com/WTPF/?page_id=2338)
 - [The 15 Commitments](https://conscious.is/15-commitments)
+- [Speak in Stories](https://boz.com/articles/speak-in-stories). _Studies have shown that emotion is critical to memory. Given two stories with the same facts, we remember the more emotionally evocative story far longer. One thing that’s amazing is that memory isn’t zero sum. If we heard ten good stories today we could remember them all better than we would remember even one list of facts._ 
 
 ## 🤡 Fun
 - [Ask a Manager](https://www.askamanager.org/)
