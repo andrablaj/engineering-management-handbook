@@ -364,7 +364,8 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Why Projects Fail](https://calleam.com/WTPF/)
 - [Why Projects Fail - 101 Common Causes](https://calleam.com/WTPF/?page_id=2338)
 - [The 15 Commitments](https://conscious.is/15-commitments)
-- [Speak in Stories](https://boz.com/articles/speak-in-stories). _Studies have shown that emotion is critical to memory. Given two stories with the same facts, we remember the more emotionally evocative story far longer. One thing that’s amazing is that memory isn’t zero sum. If we heard ten good stories today we could remember them all better than we would remember even one list of facts._ 
+- [Speak in Stories](https://boz.com/articles/speak-in-stories). _Studies have shown that emotion is critical to memory. Given two stories with the same facts, we remember the more emotionally evocative story far longer. One thing that’s amazing is that memory isn’t zero sum. If we heard ten good stories today we could remember them all better than we would remember even one list of facts._
+- ['68 Bits of Unsolicited Advice ' by Kevin Kelly](https://www.neil.blog/full-speech-transcript/68-bits-of-unsolicited-advice-by-kevin-kelly)
 
 ## 🤡 Fun
 - [Ask a Manager](https://www.askamanager.org/)
