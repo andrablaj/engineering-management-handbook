@@ -322,6 +322,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 #### Ice breakers
 - [330 Icebreaker Questions to Try with your Team](https://www.parabol.co/resources/icebreaker-questions/#Funny-icebreaker-questions)
 - 🌎 [Zoom Icebreakers: Comprehensive List of Ice Breakers and Zoom Games for Virtual Meetings in 2023](https://www.rhythmsystems.com/blog/the-best-icebreakers-to-energize-your-virtual-meetings)
+- [Icebreakers, via The Art of Noticing by Rob Walker](https://docs.google.com/document/d/1j4rj883slFvh1zZLGedqQFM0wqCrHlIEPE62K0LkKak/edit#heading=h.ux6qu2tvu31j)
 
 #### Dailies
 - 🧰 [Standup Alice Bot](https://www.standupalice.com/)
