@@ -270,6 +270,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Shipping the org chart](https://donorem.medium.com/shipping-the-org-chart-3319181be9bd)
 - [How to go for 10X](https://muratbuffalo.blogspot.com/2015/08/how-to-go-for-10x.html)
 - [Rands Leadership Slack - Engineering Effectiveness](https://docs.google.com/document/d/1nQcUspTfMQIMlmKd8S-VmMAu0sEuzvavBruq85D2-ZI/edit#heading=h.s8fgjfg5ql9w)
+- [Parkinson's Law: It's Real, So Use It](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it). Parkinson's Law states that "work expands so as to fill the time available for its completion." Projects that don't have deadlines imposed on them, even if they are self-imposed, will take a lot longer than they need to, and may suffer from feature creep and scope bloat.
 
 ### Build great stuff
 - 📹 [Output vs. Outcome & Impact](https://vimeo.com/206617354)
