@@ -302,6 +302,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - 📜 [The Management Center - 2×2 Feedback Form](https://www.managementcenter.org/resources/2x2-feedback-form/)
 - [The Management Center - Give More (and Better) Feedback with CSAW](https://www.managementcenter.org/resources/give-more-and-better-feedback-with-csaw/) - **CSAW** (Connect, Share, Ask, Wrap up)
 - [Radical Candor — The Surprising Secret to Being a Good Boss](https://review.firstround.com/radical-candor-the-surprising-secret-to-being-a-good-boss)
+- [11 ways to get better feedback from your manager](https://newsletter.weskao.com/p/get-better-feedback)
 
 ### Engineer - Manager - Engineer
 - [Engineer-Manager-Engineer: The career path nobody talks about](https://blog.developerpurpose.com/engineer-manager-engineer-the-career-path-nobody-talks-about-238bc775dd13)
