@@ -288,6 +288,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [KPIs, Velocity, and Other Destructive Metrics](https://holub.com/kpis-velocity-and-other-destructive-metrics/)
 - [17 popular software engineering metrics, and how to game them](https://www.gitclear.com/popular_software_engineering_metrics_and_how_they_are_gamed)
 - [The False Trade-off Between Quality and Speed](https://betterprogramming.pub/the-false-trade-off-between-quality-and-speed-7f0f9e93fdd)
+- [How to talk about deadlines at work](https://newsletter.weskao.com/p/how-to-talk-about-deadlines-at-work)
 
 ### Performance Management
 - 📜 [Performance Review Questions](https://docs.google.com/document/d/19LIPr_6pLBib2mGPTDfvnyq85UAyumfSXbLP7MyCgIw/edit?usp=sharing)
