@@ -321,6 +321,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 ### Conversations
 - [A field guide to dudes who ruin meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw)
+- [Meetings for an effective eng organization.](https://lethain.com/eng-org-meetings/)
 
 #### Ice breakers
 - [330 Icebreaker Questions to Try with your Team](https://www.parabol.co/resources/icebreaker-questions/#Funny-icebreaker-questions)
