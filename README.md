@@ -190,6 +190,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Architectural Decision Records (ADRs)](https://adr.github.io/)
 - [On Architectural Decision Records ADRs](https://mastodon.social/@kevlin/109517740925744193)
 - [Markdown Any Decision Records](https://adr.github.io/madr/?ref=workingsoftware.dev)
+- [Elements of the Tech Stack Canvas](https://techstackcanvas.io/?ref=workingsoftware.dev#get-template)
 
 ### Spikes & Experiments
 - [Experimentation as a company strategy](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
