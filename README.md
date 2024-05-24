@@ -189,6 +189,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Painless Functional Specifications](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/)
 - [Architectural Decision Records (ADRs)](https://adr.github.io/)
 - [On Architectural Decision Records ADRs](https://mastodon.social/@kevlin/109517740925744193)
+- [Markdown Any Decision Records](https://adr.github.io/madr/?ref=workingsoftware.dev)
 
 ### Spikes & Experiments
 - [Experimentation as a company strategy](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
