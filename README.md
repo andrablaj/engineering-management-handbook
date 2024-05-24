@@ -132,6 +132,8 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 - [How to Build Trust](https://jacobian.org/2023/nov/16/how-to-build-trust/). You can’t build trust through artificial “trust building” exercises, nor can you say “trust me” and expect it to work. The only way you can build trust is by demonstrating, over time, that you’re deserving of trust.
 - [New Engineering Managers Have a High Failure Rate — This Figma Leader is on a Mission to Fix It](https://review.firstround.com/new-engineering-manager-advice)
 - [The Good Engineering Manager Framework](https://hybridhacker.email/p/the-good-engineering-manager-framework)
+- [The Hagakure #80: Why Coaching (Really) Matters for Engineering Leadership](https://hagakure.substack.com/p/the-hagakure-80-why-coaching-really)
+- [The Manager as Debugger](https://www.elidedbranches.com/2015/11/the-manager-as-debugger.html)
 
 ## 💻 To Code or not to Code
 - ["Can't Code! Not inclined to Hire?" - Why Engineering Managers Don't Need to be Great Coders](https://www.scarletink.com/why-engineering-managers-dont-need-to-code/?utm_source=sendinblue&utm_campaign=Level%20Up%20-%20Issue%20193&utm_medium=email)
@@ -171,6 +173,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 ### Software Development Process
 - [Reduce Friction](https://blog.ceejbot.com/posts/reduce-friction/)
 - [Creating Good Process](https://staysaasy.com/process/2020/04/06/Creating-Good-Process.html). Triggers - Actions - Review.
+- [24 Fundamental Techniques for Software Architects](https://www.workingsoftware.dev/fundamental-techniques-for-software-architects/#technology-radar)
 
 ### Development
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
@@ -255,6 +258,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Be a thermostat, not a thermometer](https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/). Since humans tend to mirror each other, you can intentionally change the energy in the room, setting the thermostat to a more comfortable temperature.
 - [Own It Mentality](https://perell.com/essay/own-it-mentality/). _I give people lots of autonomy. I don’t micromanage. In return, I expect people to take initiative, be proactive, communicate well, and follow through on their commitments. So long as they have an Own It Mentality, I don’t care how much somebody works, when they work, or where they work from_.
 - [How To Fix Broken Teams](https://blog.staysaasy.com/p/how-to-fix-broken-teams)
+- [The Disappointment Frontier](https://theengineeringmanager.substack.com/p/the-disappointment-frontier)
 
 ### Delegation
 - 📜 [The Management Center - Delegation Worksheet](https://www.managementcenter.org/resources/delegation-worksheet/)
@@ -271,6 +275,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [How to go for 10X](https://muratbuffalo.blogspot.com/2015/08/how-to-go-for-10x.html)
 - [Rands Leadership Slack - Engineering Effectiveness](https://docs.google.com/document/d/1nQcUspTfMQIMlmKd8S-VmMAu0sEuzvavBruq85D2-ZI/edit#heading=h.s8fgjfg5ql9w)
 - [Parkinson's Law: It's Real, So Use It](https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it). Parkinson's Law states that "work expands so as to fill the time available for its completion." Projects that don't have deadlines imposed on them, even if they are self-imposed, will take a lot longer than they need to, and may suffer from feature creep and scope bloat.
+- 📜 [A guide for announcing change to your organization](https://leaddev.com/process/guide-announcing-change-your-organization?utm_source=ActiveCampaign&utm_medium=email&utm_content=Announce+change+like+a+pro&utm_campaign=Originals+-+Issue+192+%2824th+May+2024%29)
 
 ### Build great stuff
 - 📹 [Output vs. Outcome & Impact](https://vimeo.com/206617354)
@@ -283,6 +288,8 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [How to do great things](http://paulgraham.com/greatwork.html).
   - _"When you read biographies of people who've done great work, it's remarkable how much luck is involved. They discover what to work on as a result of a chance meeting, or by reading a book they happen to pick up. So you need to make yourself a big target for luck, and the way to do that is to be curious. Try lots of things, meet lots of people, read lots of books, ask lots of questions."_
   - _"I think for most people who want to do great work, the right strategy is not to plan too much. At each stage do whatever seems most interesting and gives you the best options for the future. I call this approach "staying upwind." This is how most people who've done great work seem to have done it."_
+- [Getting buy-in to get things done](https://ntietz.com/blog/getting-buyin-is-different-from-getting-agreement/)
+  - _"When you are in one of these roles and you're championing an initiative, it can feel like the goal is to get people to agree with you on the proposal. But what you really need is for people to actually do the work, not just say that it sounds good. There's a big difference, because it's much easier for someone to agree something should happen than to actually do it themselves."_
 
 ### Engineering ~~Metrics~~ Indicators
 - [KPIs, Velocity, and Other Destructive Metrics](https://holub.com/kpis-velocity-and-other-destructive-metrics/)
@@ -298,6 +305,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Management Basics: Determining a Performance Rating](https://www.elidedbranches.com/2021/05/management-basics-determining.html). Method that splits goals up into three categories: **must be achieved**, **stretch goals**, and **moonshot goals**.
 - [Your Career - Performance & Promotion](https://axelerant.atlassian.net/wiki/spaces/OA/pages/2655060073/Your+Career+-+Performance+Promotion)
 - [Moving Motivators](https://easyretro.io/tools/moving-motivators/)
+- [Managing High Performers](https://staysaasy.com/startups/2024/05/08/managing-high-performers.html)
 
 ### Feedback
 - 📜 [The Management Center - 2×2 Feedback Form](https://www.managementcenter.org/resources/2x2-feedback-form/)
@@ -370,6 +378,8 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Speak in Stories](https://boz.com/articles/speak-in-stories). _Studies have shown that emotion is critical to memory. Given two stories with the same facts, we remember the more emotionally evocative story far longer. One thing that’s amazing is that memory isn’t zero sum. If we heard ten good stories today we could remember them all better than we would remember even one list of facts._
 - ['68 Bits of Unsolicited Advice ' by Kevin Kelly](https://www.neil.blog/full-speech-transcript/68-bits-of-unsolicited-advice-by-kevin-kelly)
 - [Mental Health in Software Engineering](https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/)
+- [Separation](https://world.hey.com/jason/separation-162a4b53)
+- [How To Understand Things](https://nabeelqu.substack.com/p/understanding)
 
 ## 🤡 Fun
 - [Ask a Manager](https://www.askamanager.org/)
