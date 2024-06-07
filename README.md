@@ -382,6 +382,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Mental Health in Software Engineering](https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/)
 - [Separation](https://world.hey.com/jason/separation-162a4b53)
 - [How To Understand Things](https://nabeelqu.substack.com/p/understanding)
+- [How to Build Engineering Strategy](https://blog.practicalengineering.management/how-to-build-engineering-strategy-42e464018177)
 
 ## 🤡 Fun
 - [Ask a Manager](https://www.askamanager.org/)
