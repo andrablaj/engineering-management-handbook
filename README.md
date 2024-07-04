@@ -248,6 +248,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Engineering Org Structures— The QRF Team Model](https://medium.com/engineering-manager-hub/engineering-org-structures-the-qrf-team-model-7b92031db33c)
 - [Uber’s engineering level changes](https://newsletter.pragmaticengineer.com/p/ubers-engineering-level-changes?utm_source=substack&utm_medium=email)
 - [Navigating the Software Engineering career ladders](https://threads.championswimmer.in/p/navigating-the-software-engineering)
+- [Deltas to the Global Maxima - Better conversations beyond the career track](https://theengineeringmanager.substack.com/p/deltas-to-the-global-maxima)
 
 ### Engineering Values
 - [My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
