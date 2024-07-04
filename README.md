@@ -367,6 +367,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 ### People Management Misc
 - 📜 [Vacation Coverage Plan Template](https://docs.google.com/document/d/1uM83Ld-gfFOscTKBro2Yb-yJITrMwBsZwiKE9hwSNzY/edit?usp=sharing)
+- [How to communicate a decision you disagree with](https://leaddev.com/personal-development/how-communicate-decision-you-disagree?utm_source=ActiveCampaign&utm_medium=email&utm_content=Breaking+bad+%28news%29&utm_campaign=Originals+-+Issue+196+%2820th+June+2024%29)
 
 ### Offboarding
 - 📜 [Offboarding Checklist Template](https://docs.google.com/spreadsheets/d/12bBFw55lZsa5gHXYQWWUo3MYb6RGGDBGJT_WqYHm3x4/edit?usp=sharing)
