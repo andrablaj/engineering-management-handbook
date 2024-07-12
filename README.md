@@ -293,6 +293,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
   - _"I think for most people who want to do great work, the right strategy is not to plan too much. At each stage do whatever seems most interesting and gives you the best options for the future. I call this approach "staying upwind." This is how most people who've done great work seem to have done it."_
 - [Getting buy-in to get things done](https://ntietz.com/blog/getting-buyin-is-different-from-getting-agreement/)
   - _"When you are in one of these roles and you're championing an initiative, it can feel like the goal is to get people to agree with you on the proposal. But what you really need is for people to actually do the work, not just say that it sounds good. There's a big difference, because it's much easier for someone to agree something should happen than to actually do it themselves."_
+- [How we decide what to build](https://posthog.com/newsletter/how-we-decide-what-to-build)
 
 ### Engineering ~~Metrics~~ Indicators
 - [KPIs, Velocity, and Other Destructive Metrics](https://holub.com/kpis-velocity-and-other-destructive-metrics/)
