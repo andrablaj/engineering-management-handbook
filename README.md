@@ -309,6 +309,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Your Career - Performance & Promotion](https://axelerant.atlassian.net/wiki/spaces/OA/pages/2655060073/Your+Career+-+Performance+Promotion)
 - [Moving Motivators](https://easyretro.io/tools/moving-motivators/)
 - [Managing High Performers](https://staysaasy.com/startups/2024/05/08/managing-high-performers.html)
+- [Managing Underperformers](https://jackdanger.com/managing-underperformers/)
 
 ### Feedback
 - 📜 [The Management Center - 2×2 Feedback Form](https://www.managementcenter.org/resources/2x2-feedback-form/)
