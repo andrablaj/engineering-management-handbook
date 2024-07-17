@@ -191,6 +191,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [On Architectural Decision Records ADRs](https://mastodon.social/@kevlin/109517740925744193)
 - [Markdown Any Decision Records](https://adr.github.io/madr/?ref=workingsoftware.dev)
 - [Elements of the Tech Stack Canvas](https://techstackcanvas.io/?ref=workingsoftware.dev#get-template)
+- [How to write a good software design doc](https://medium.com/free-code-camp/how-to-write-a-good-software-design-document-66fcf019569c)
 
 ### Spikes & Experiments
 - [Experimentation as a company strategy](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
