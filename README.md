@@ -390,6 +390,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Separation](https://world.hey.com/jason/separation-162a4b53)
 - [How To Understand Things](https://nabeelqu.substack.com/p/understanding)
 - [How to Build Engineering Strategy](https://blog.practicalengineering.management/how-to-build-engineering-strategy-42e464018177)
+- [How to gather people and create communities in ways that are low-stress and high-payoff](https://maggieappleton.com/gathering-structures)
 
 ## 🤡 Fun
 - [Ask a Manager](https://www.askamanager.org/)
