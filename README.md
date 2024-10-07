@@ -352,8 +352,8 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [57 Daily Standup Questions for More Engaging Updates](https://www.parabol.co/resources/daily-standup-questions/)
 
 #### Retros
+- [Awesome Retrospectives](https://github.com/josephearl/awesome-retrospectives?tab=readme-ov-file)
 - 🧰 [Stickies.io](https://stickies.io/)
-- 🧰 [Metroretro.io](https://metroretro.io/)
 - 📜 [FunRetrospectives - Activities and ideas for making agile retrospectives more engaging](https://www.funretrospectives.com/)
 - [Growing our team with retrospectives](https://plaid.com/blog/growing-our-team-with-retrospectives/)
 - [SWOT Analysis](https://www.mindtools.com/amtbj63/swot-analysis)
