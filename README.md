@@ -93,6 +93,9 @@ I started as an Engineering Manager in May 2021 and learned a lot through the gr
 - [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/), Camille Fournier
 - [An Elegant Puzzle: Systems of Engineering Management](https://press.stripe.com/an-elegant-puzzle), Will Larson
 - [Drive - The Surprising Truth About What Motivates Us](https://www.danpink.com/books/drive/), by Daniel H. Pink
+- [Team Topologies](https://teamtopologies.com/), by Matthew Skelton and Manuel Pais
+- [Nonviolent Communication: A Language of Life](https://www.cnvc.org/store/nonviolent-communication-a-language-of-life), by Marshall B. Rosenberg
+- [Presentation Zen: Simple Ideas on Presentation Design and Delivery](https://presentationzen.com/), by Garr Reynolds 
 
 ## 🤓 Courses
 - [Rippleworks - Growing Yourself](https://www.rippleworks.org/leaders-studio/growing-yourself/) - Mastering leadership begins with managing self
