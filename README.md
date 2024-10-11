@@ -262,6 +262,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Own It Mentality](https://perell.com/essay/own-it-mentality/). _I give people lots of autonomy. I don’t micromanage. In return, I expect people to take initiative, be proactive, communicate well, and follow through on their commitments. So long as they have an Own It Mentality, I don’t care how much somebody works, when they work, or where they work from_.
 - [How To Fix Broken Teams](https://blog.staysaasy.com/p/how-to-fix-broken-teams)
 - [The Disappointment Frontier](https://theengineeringmanager.substack.com/p/the-disappointment-frontier)
+- [Status games](https://philbooth.me/blog/status-games?_bhlid=da3ca01b06f82856f9d1b200148de94d4a54cc84)- _Technical decisions should be based on merit, not the relative status of the protagonists._
 
 ### Delegation
 - 📜 [The Management Center - Delegation Worksheet](https://www.managementcenter.org/resources/delegation-worksheet/)
