@@ -391,6 +391,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [How To Understand Things](https://nabeelqu.substack.com/p/understanding)
 - [How to Build Engineering Strategy](https://blog.practicalengineering.management/how-to-build-engineering-strategy-42e464018177)
 - [How to gather people and create communities in ways that are low-stress and high-payoff](https://maggieappleton.com/gathering-structures)
+- [Writing](https://mikefisher.substack.com/p/writing?_bhlid=6d4fa96acddd241361b2109e1562fd0b952dbe44). _If you're thinking without writing, you only think you're thinking. (...) Moreover, writing isn’t just about the self. It’s also about contributing to the larger discourse._
 
 ## 🤡 Fun
 - [Ask a Manager](https://www.askamanager.org/)
