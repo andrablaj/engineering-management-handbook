@@ -317,6 +317,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Managing High Performers](https://staysaasy.com/startups/2024/05/08/managing-high-performers.html)
 - [Managing Underperformers](https://jackdanger.com/managing-underperformers/)
 - [Underperformer](https://cutlefish.substack.com/p/tbm-299-underperformer)
+- [How hard should your employer work to retain you?](https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/?_bhlid=bfae313e68b541a07d80d7a412eaca36abd783d9)
 
 ### Feedback
 - 📜 [The Management Center - 2×2 Feedback Form](https://www.managementcenter.org/resources/2x2-feedback-form/)
