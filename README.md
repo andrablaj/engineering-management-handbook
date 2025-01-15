@@ -60,7 +60,7 @@
 
 ## 👩‍💻 About Me
 
-I am a tech professional & international development enthusiast with more than 10-year experience in software engineering and leadership roles.
+I am a tech professional, international development enthusiast and language geek with more than 12 years of experience in software engineering and leadership roles, committed to using technology for positive social impact. I deeply believe that when you care, more people will care, too, and I apply that belief to everything I do.
 
 I started as an Engineering Manager in May 2021 and learned a lot through the great resources I found online. My life would have been a lot tougher without these fantastic authors who shared their experiences and advice, and I am incredibly grateful for that. This handbook is a compilation of links and templates that supported me in my Engineering Management journey. I am sharing it here, hoping it will serve others going through the same career transition.
 
