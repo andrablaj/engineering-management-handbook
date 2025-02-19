@@ -344,10 +344,10 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [A field guide to dudes who ruin meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw)
 - [Meetings for an effective eng organization.](https://lethain.com/eng-org-meetings/)
 - [What is Open Space Technology?](https://www.facilitator.school/blog/open-space-technology)
-  - _1. ‍Whoever comes are the right people: Since people can choose what sessions to attend there has to be to trust, that the people that come are the right people. Even if a session only has two participants these two people might be exactly the right people to meet at that time to do something great together.
- ‍     2. Whatever happens is the only thing that could have: Open Space Technology events have an emerging character. No one can possibly predict, how things might unfold. Therefore, participants are invited to concentrate on the moment with an open mind.
- ‍     3. Whenever it starts is the right time: Creativity moves on its own timeline independent of the meeting or event schedule. Therefore, participants should be attentive to when creativity arises. Whether that is as part of the group sessions or in one to one conversations at the lunch buffet.
-      4. When it is over, it is over: Getting the work done is more important than sticking to the schedule. When a group is in the perfect flow, then they can decide to continue their discussions. Or, if they finish their topic earlier, the can also close the session and do something else instead._
+  - _1. ‍Whoever comes are the right people: Since people can choose what sessions to attend there has to be to trust, that the people that come are the right people. Even if a session only has two participants these two people might be exactly the right people to meet at that time to do something great together._
+ ‍ - _2. Whatever happens is the only thing that could have: Open Space Technology events have an emerging character. No one can possibly predict, how things might unfold. Therefore, participants are invited to concentrate on the moment with an open mind._
+  - _3. Whenever it starts is the right time: Creativity moves on its own timeline independent of the meeting or event schedule. Therefore, participants should be attentive to when creativity arises. Whether that is as part of the group sessions or in one to one conversations at the lunch buffet._
+  - _4. When it is over, it is over: Getting the work done is more important than sticking to the schedule. When a group is in the perfect flow, then they can decide to continue their discussions. Or, if they finish their topic earlier, the can also close the session and do something else instead._
 
 #### Ice breakers
 - [330 Icebreaker Questions to Try with your Team](https://www.parabol.co/resources/icebreaker-questions/#Funny-icebreaker-questions)
