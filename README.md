@@ -404,6 +404,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - [Writing](https://mikefisher.substack.com/p/writing?_bhlid=6d4fa96acddd241361b2109e1562fd0b952dbe44). _If you're thinking without writing, you only think you're thinking. (...) Moreover, writing isn’t just about the self. It’s also about contributing to the larger discourse._
 - [Design Your Organization for the Conflicts You Want to Hear About](https://kellblog.com/2024/10/12/design-your-organization-for-the-conflicts-you-want-to-hear-about/?_bhlid=c44bc40c6cc8b6f519912466502903c5c3d0591e)._"The primary goal in organization design should not be reducing of span-of-control, but in surfacing conflicts most important to the company. Determine the conflicts you want to hear about — presumably because you can add the most value in resolving them — and then design the organization to make sure you do. No department should report into an executive who can’t add value to it."_
 - [The PRIMES](https://theprimes.com/primes/)
+- [The Self-Promotion Horror Show](https://hils.substack.com/p/the-self-promotion-horror-show?open=false#%C2%A7the-self-promotion-horror-show)
 
 ## 🤡 Fun
 - [Ask a Manager](https://www.askamanager.org/)
