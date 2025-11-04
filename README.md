@@ -288,7 +288,6 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 ### Build great stuff
 - 📹 [Output vs. Outcome & Impact](https://vimeo.com/206617354)
 - [When they don’t know what to do, they’ll do what they know.](https://marcusblankenship.com/when-they-dont-know-what-to-do-theyll-do-what-they-know/)
-- [Jason’s perspective on effective product development culture](https://scribe.rip/effective-product-development-culture-circa-2022-835e2787b4f4)
 - [A decade of building (pretty) great software data products](https://www.craft.do/s/RlIjEn1JrvHgDQ)
 - [PM & EM: Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)
 - [The Product Culture Shift](https://www.elidedbranches.com/2022/08/the-product-culture-shift.html)
@@ -357,7 +356,6 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 
 #### Dailies
 - 🧰 [Standup Alice Bot](https://www.standupalice.com/)
-- 🌎 [Goodbye Standups, Hello Wrap-Ups: Rethinking team alignment for asynchronous, remote work](https://blog.xmtp.com/goodbye-standups-hello-wrap-ups/)
 - [Why Your Team Members Need Daily Check-Ins](https://hbr.org/2022/09/why-your-team-members-need-daily-check-ins?utm_medium=email&utm_source=newsletter_daily&utm_campaign=mtod_actsubs&utm_content=signinnudge#)
 - [Async daily standups: the pros & cons](https://www.range.co/blog/asynchronous-daily-standups)
 - [57 Daily Standup Questions for More Engaging Updates](https://www.parabol.co/resources/daily-standup-questions/)
