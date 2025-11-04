@@ -217,6 +217,7 @@ I have a love-hate relation with Manager READMEs, as I am never confident that I
 - 🌎 [Hiring in a Distributed World](https://20222851.fs1.hubspotusercontent-na1.net/hubfs/20222851/Hiring%20in%20a%20Distributed%20World_Datapeople%20Fall%202022%20Hiring%20Report.pdf?utm_campaign=Hiring%20in%20a%20Distributed%20World%20Report_Oct%202022&utm_medium=email&_hsmi=230087200&_hsenc=p2ANqtz--3atiAjEQCOh0MuXc5HYSilGCzACtiM93ljZEP-_zq97LpNOvp_38vo1fi8kX9t9UznXdsGahGb7w2YWznmkVgZKLeqA&utm_content=230085729&utm_source=hs_email)
 - [How I interview engineers to assess ability to deliver impact](https://www.metaview.ai/resources/blog/how-i-interview-engineers-to-assess-ability-to-deliver-impact) + [1-Pager](https://25735183.fs1.hubspotusercontent-eu1.net/hubfs/25735183/Impact%20Interview%201-page%20Guide.pdf)
 - ['Just Say No' to These 4 Interview Formats](https://www.linkedin.com/business/talent/blog/talent-acquisition/just-say-no-to-these-4-interview-formats?src=ig-st-just-say-no-to-these-formats-2-19-23&trk=li_li_lts_lts+daily+content_linkedin_social&linkId=100000187228474&li_fat_id=eeabbc46-5204-43ce-a141-4038d207868c)
+- [AI Broke Interviews](https://yusufaytas.com/ai-broke-interviews/)
 
 ### Onboarding
 - 📜 [Welcome message](https://docs.google.com/document/d/1djllrUyjLG1anLVamvFftKfp1HsPimWCTm0kLFDQbXk/edit#)
